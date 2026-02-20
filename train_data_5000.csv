@@ -1,0 +1,5001 @@
+Student_ID,Student_Query,Priority
+S0001,Missed exam due to medical emergency,High
+S0002,Internship letter request,Medium
+S0003,Elective subject change request,Medium
+S0004,Missed exam due to medical emergency,High
+S0005,Internship letter request,Medium
+S0006,Hostel accommodation query,Medium
+S0007,Exam result not published,High
+S0008,Library timings inquiry,Low
+S0009,Fee payment issue before deadline,High
+S0010,Hall ticket not generated before exam,High
+S0011,Academic calendar request,Low
+S0012,Missed exam due to medical emergency,High
+S0013,Fee payment issue before deadline,High
+S0014,Elective subject change request,Medium
+S0015,Bonafide certificate request,Medium
+S0016,Website navigation help,Low
+S0017,Fee payment issue before deadline,High
+S0018,Scholarship not credited,High
+S0019,Campus map request,Low
+S0020,Academic calendar request,Low
+S0021,Campus map request,Low
+S0022,Bonafide certificate request,Medium
+S0023,Elective subject change request,Medium
+S0024,Missed exam due to medical emergency,High
+S0025,Library timings inquiry,Low
+S0026,Website navigation help,Low
+S0027,Hall ticket not generated before exam,High
+S0028,Internship letter request,Medium
+S0029,Bonafide certificate request,Medium
+S0030,Library timings inquiry,Low
+S0031,Hostel accommodation query,Medium
+S0032,Hostel accommodation query,Medium
+S0033,Fee payment issue before deadline,High
+S0034,Exam result not published,High
+S0035,Campus map request,Low
+S0036,Hall ticket not generated before exam,High
+S0037,Hostel accommodation query,Medium
+S0038,Hall ticket not generated before exam,High
+S0039,Library access issue,Medium
+S0040,Library access issue,Medium
+S0041,Library timings inquiry,Low
+S0042,Website navigation help,Low
+S0043,Hostel accommodation query,Medium
+S0044,Bonafide certificate request,Medium
+S0045,Hostel accommodation query,Medium
+S0046,Elective subject change request,Medium
+S0047,Elective subject change request,Medium
+S0048,Elective subject change request,Medium
+S0049,Website navigation help,Low
+S0050,Elective subject change request,Medium
+S0051,Exam result not published,High
+S0052,Elective subject change request,Medium
+S0053,Campus map request,Low
+S0054,Website navigation help,Low
+S0055,Campus map request,Low
+S0056,Exam result not published,High
+S0057,Website navigation help,Low
+S0058,Hostel accommodation query,Medium
+S0059,Library access issue,Medium
+S0060,Scholarship not credited,High
+S0061,Elective subject change request,Medium
+S0062,Hall ticket not generated before exam,High
+S0063,Website navigation help,Low
+S0064,Website navigation help,Low
+S0065,Hostel accommodation query,Medium
+S0066,Exam result not published,High
+S0067,Internship letter request,Medium
+S0068,Event information query,Low
+S0069,Library timings inquiry,Low
+S0070,Internship letter request,Medium
+S0071,Missed exam due to medical emergency,High
+S0072,Library access issue,Medium
+S0073,Library access issue,Medium
+S0074,Campus map request,Low
+S0075,Bonafide certificate request,Medium
+S0076,Hall ticket not generated before exam,High
+S0077,Event information query,Low
+S0078,Fee payment issue before deadline,High
+S0079,Hall ticket not generated before exam,High
+S0080,Library timings inquiry,Low
+S0081,Campus map request,Low
+S0082,Bonafide certificate request,Medium
+S0083,Missed exam due to medical emergency,High
+S0084,Fee payment issue before deadline,High
+S0085,Hostel accommodation query,Medium
+S0086,Bonafide certificate request,Medium
+S0087,Bonafide certificate request,Medium
+S0088,Event information query,Low
+S0089,Scholarship not credited,High
+S0090,Hostel accommodation query,Medium
+S0091,Event information query,Low
+S0092,Campus map request,Low
+S0093,Missed exam due to medical emergency,High
+S0094,Library timings inquiry,Low
+S0095,Campus map request,Low
+S0096,Elective subject change request,Medium
+S0097,Hostel accommodation query,Medium
+S0098,Library timings inquiry,Low
+S0099,Exam result not published,High
+S0100,Academic calendar request,Low
+S0101,Event information query,Low
+S0102,Exam result not published,High
+S0103,Elective subject change request,Medium
+S0104,Campus map request,Low
+S0105,Elective subject change request,Medium
+S0106,Hall ticket not generated before exam,High
+S0107,Campus map request,Low
+S0108,Exam result not published,High
+S0109,Missed exam due to medical emergency,High
+S0110,Missed exam due to medical emergency,High
+S0111,Elective subject change request,Medium
+S0112,Hall ticket not generated before exam,High
+S0113,Bonafide certificate request,Medium
+S0114,Library timings inquiry,Low
+S0115,Website navigation help,Low
+S0116,Library access issue,Medium
+S0117,Library timings inquiry,Low
+S0118,Academic calendar request,Low
+S0119,Hostel accommodation query,Medium
+S0120,Campus map request,Low
+S0121,Hostel accommodation query,Medium
+S0122,Event information query,Low
+S0123,Academic calendar request,Low
+S0124,Missed exam due to medical emergency,High
+S0125,Exam result not published,High
+S0126,Library access issue,Medium
+S0127,Campus map request,Low
+S0128,Website navigation help,Low
+S0129,Website navigation help,Low
+S0130,Bonafide certificate request,Medium
+S0131,Internship letter request,Medium
+S0132,Library timings inquiry,Low
+S0133,Academic calendar request,Low
+S0134,Academic calendar request,Low
+S0135,Library access issue,Medium
+S0136,Website navigation help,Low
+S0137,Academic calendar request,Low
+S0138,Hall ticket not generated before exam,High
+S0139,Hall ticket not generated before exam,High
+S0140,Missed exam due to medical emergency,High
+S0141,Hostel accommodation query,Medium
+S0142,Website navigation help,Low
+S0143,Website navigation help,Low
+S0144,Missed exam due to medical emergency,High
+S0145,Event information query,Low
+S0146,Hall ticket not generated before exam,High
+S0147,Internship letter request,Medium
+S0148,Library access issue,Medium
+S0149,Library timings inquiry,Low
+S0150,Bonafide certificate request,Medium
+S0151,Academic calendar request,Low
+S0152,Library access issue,Medium
+S0153,Library timings inquiry,Low
+S0154,Library timings inquiry,Low
+S0155,Hall ticket not generated before exam,High
+S0156,Exam result not published,High
+S0157,Elective subject change request,Medium
+S0158,Scholarship not credited,High
+S0159,Bonafide certificate request,Medium
+S0160,Exam result not published,High
+S0161,Campus map request,Low
+S0162,Library access issue,Medium
+S0163,Scholarship not credited,High
+S0164,Library access issue,Medium
+S0165,Internship letter request,Medium
+S0166,Campus map request,Low
+S0167,Library timings inquiry,Low
+S0168,Academic calendar request,Low
+S0169,Event information query,Low
+S0170,Website navigation help,Low
+S0171,Fee payment issue before deadline,High
+S0172,Academic calendar request,Low
+S0173,Internship letter request,Medium
+S0174,Elective subject change request,Medium
+S0175,Missed exam due to medical emergency,High
+S0176,Event information query,Low
+S0177,Scholarship not credited,High
+S0178,Hall ticket not generated before exam,High
+S0179,Fee payment issue before deadline,High
+S0180,Website navigation help,Low
+S0181,Hall ticket not generated before exam,High
+S0182,Website navigation help,Low
+S0183,Library timings inquiry,Low
+S0184,Bonafide certificate request,Medium
+S0185,Internship letter request,Medium
+S0186,Website navigation help,Low
+S0187,Fee payment issue before deadline,High
+S0188,Internship letter request,Medium
+S0189,Exam result not published,High
+S0190,Hall ticket not generated before exam,High
+S0191,Exam result not published,High
+S0192,Elective subject change request,Medium
+S0193,Bonafide certificate request,Medium
+S0194,Internship letter request,Medium
+S0195,Campus map request,Low
+S0196,Academic calendar request,Low
+S0197,Elective subject change request,Medium
+S0198,Library timings inquiry,Low
+S0199,Academic calendar request,Low
+S0200,Academic calendar request,Low
+S0201,Campus map request,Low
+S0202,Library access issue,Medium
+S0203,Bonafide certificate request,Medium
+S0204,Hall ticket not generated before exam,High
+S0205,Elective subject change request,Medium
+S0206,Event information query,Low
+S0207,Library timings inquiry,Low
+S0208,Hall ticket not generated before exam,High
+S0209,Website navigation help,Low
+S0210,Internship letter request,Medium
+S0211,Elective subject change request,Medium
+S0212,Hall ticket not generated before exam,High
+S0213,Campus map request,Low
+S0214,Bonafide certificate request,Medium
+S0215,Exam result not published,High
+S0216,Event information query,Low
+S0217,Website navigation help,Low
+S0218,Hall ticket not generated before exam,High
+S0219,Library timings inquiry,Low
+S0220,Missed exam due to medical emergency,High
+S0221,Scholarship not credited,High
+S0222,Missed exam due to medical emergency,High
+S0223,Exam result not published,High
+S0224,Scholarship not credited,High
+S0225,Library timings inquiry,Low
+S0226,Hostel accommodation query,Medium
+S0227,Library access issue,Medium
+S0228,Library timings inquiry,Low
+S0229,Bonafide certificate request,Medium
+S0230,Bonafide certificate request,Medium
+S0231,Hostel accommodation query,Medium
+S0232,Bonafide certificate request,Medium
+S0233,Hostel accommodation query,Medium
+S0234,Library access issue,Medium
+S0235,Campus map request,Low
+S0236,Academic calendar request,Low
+S0237,Fee payment issue before deadline,High
+S0238,Internship letter request,Medium
+S0239,Academic calendar request,Low
+S0240,Library timings inquiry,Low
+S0241,Fee payment issue before deadline,High
+S0242,Internship letter request,Medium
+S0243,Campus map request,Low
+S0244,Bonafide certificate request,Medium
+S0245,Library timings inquiry,Low
+S0246,Hostel accommodation query,Medium
+S0247,Library timings inquiry,Low
+S0248,Hall ticket not generated before exam,High
+S0249,Academic calendar request,Low
+S0250,Hostel accommodation query,Medium
+S0251,Website navigation help,Low
+S0252,Campus map request,Low
+S0253,Campus map request,Low
+S0254,Website navigation help,Low
+S0255,Fee payment issue before deadline,High
+S0256,Event information query,Low
+S0257,Elective subject change request,Medium
+S0258,Campus map request,Low
+S0259,Exam result not published,High
+S0260,Hostel accommodation query,Medium
+S0261,Campus map request,Low
+S0262,Library timings inquiry,Low
+S0263,Bonafide certificate request,Medium
+S0264,Campus map request,Low
+S0265,Campus map request,Low
+S0266,Internship letter request,Medium
+S0267,Library timings inquiry,Low
+S0268,Academic calendar request,Low
+S0269,Event information query,Low
+S0270,Hostel accommodation query,Medium
+S0271,Missed exam due to medical emergency,High
+S0272,Website navigation help,Low
+S0273,Hostel accommodation query,Medium
+S0274,Academic calendar request,Low
+S0275,Elective subject change request,Medium
+S0276,Website navigation help,Low
+S0277,Exam result not published,High
+S0278,Campus map request,Low
+S0279,Website navigation help,Low
+S0280,Campus map request,Low
+S0281,Scholarship not credited,High
+S0282,Website navigation help,Low
+S0283,Fee payment issue before deadline,High
+S0284,Academic calendar request,Low
+S0285,Exam result not published,High
+S0286,Campus map request,Low
+S0287,Event information query,Low
+S0288,Scholarship not credited,High
+S0289,Academic calendar request,Low
+S0290,Elective subject change request,Medium
+S0291,Fee payment issue before deadline,High
+S0292,Academic calendar request,Low
+S0293,Elective subject change request,Medium
+S0294,Exam result not published,High
+S0295,Library timings inquiry,Low
+S0296,Exam result not published,High
+S0297,Scholarship not credited,High
+S0298,Bonafide certificate request,Medium
+S0299,Library access issue,Medium
+S0300,Bonafide certificate request,Medium
+S0301,Campus map request,Low
+S0302,Missed exam due to medical emergency,High
+S0303,Website navigation help,Low
+S0304,Fee payment issue before deadline,High
+S0305,Library access issue,Medium
+S0306,Elective subject change request,Medium
+S0307,Exam result not published,High
+S0308,Exam result not published,High
+S0309,Fee payment issue before deadline,High
+S0310,Bonafide certificate request,Medium
+S0311,Library access issue,Medium
+S0312,Elective subject change request,Medium
+S0313,Library timings inquiry,Low
+S0314,Fee payment issue before deadline,High
+S0315,Elective subject change request,Medium
+S0316,Library timings inquiry,Low
+S0317,Library timings inquiry,Low
+S0318,Hall ticket not generated before exam,High
+S0319,Bonafide certificate request,Medium
+S0320,Fee payment issue before deadline,High
+S0321,Missed exam due to medical emergency,High
+S0322,Bonafide certificate request,Medium
+S0323,Scholarship not credited,High
+S0324,Event information query,Low
+S0325,Academic calendar request,Low
+S0326,Library timings inquiry,Low
+S0327,Elective subject change request,Medium
+S0328,Elective subject change request,Medium
+S0329,Missed exam due to medical emergency,High
+S0330,Hall ticket not generated before exam,High
+S0331,Hostel accommodation query,Medium
+S0332,Internship letter request,Medium
+S0333,Bonafide certificate request,Medium
+S0334,Library access issue,Medium
+S0335,Academic calendar request,Low
+S0336,Missed exam due to medical emergency,High
+S0337,Internship letter request,Medium
+S0338,Missed exam due to medical emergency,High
+S0339,Bonafide certificate request,Medium
+S0340,Internship letter request,Medium
+S0341,Bonafide certificate request,Medium
+S0342,Internship letter request,Medium
+S0343,Hostel accommodation query,Medium
+S0344,Bonafide certificate request,Medium
+S0345,Bonafide certificate request,Medium
+S0346,Scholarship not credited,High
+S0347,Library access issue,Medium
+S0348,Campus map request,Low
+S0349,Exam result not published,High
+S0350,Scholarship not credited,High
+S0351,Hall ticket not generated before exam,High
+S0352,Exam result not published,High
+S0353,Hostel accommodation query,Medium
+S0354,Event information query,Low
+S0355,Missed exam due to medical emergency,High
+S0356,Campus map request,Low
+S0357,Exam result not published,High
+S0358,Exam result not published,High
+S0359,Hostel accommodation query,Medium
+S0360,Fee payment issue before deadline,High
+S0361,Event information query,Low
+S0362,Scholarship not credited,High
+S0363,Library timings inquiry,Low
+S0364,Scholarship not credited,High
+S0365,Fee payment issue before deadline,High
+S0366,Library access issue,Medium
+S0367,Missed exam due to medical emergency,High
+S0368,Fee payment issue before deadline,High
+S0369,Event information query,Low
+S0370,Hall ticket not generated before exam,High
+S0371,Campus map request,Low
+S0372,Fee payment issue before deadline,High
+S0373,Hostel accommodation query,Medium
+S0374,Library access issue,Medium
+S0375,Scholarship not credited,High
+S0376,Internship letter request,Medium
+S0377,Elective subject change request,Medium
+S0378,Internship letter request,Medium
+S0379,Hall ticket not generated before exam,High
+S0380,Fee payment issue before deadline,High
+S0381,Elective subject change request,Medium
+S0382,Hall ticket not generated before exam,High
+S0383,Campus map request,Low
+S0384,Bonafide certificate request,Medium
+S0385,Missed exam due to medical emergency,High
+S0386,Website navigation help,Low
+S0387,Event information query,Low
+S0388,Hostel accommodation query,Medium
+S0389,Campus map request,Low
+S0390,Event information query,Low
+S0391,Event information query,Low
+S0392,Hall ticket not generated before exam,High
+S0393,Library access issue,Medium
+S0394,Library timings inquiry,Low
+S0395,Hall ticket not generated before exam,High
+S0396,Missed exam due to medical emergency,High
+S0397,Campus map request,Low
+S0398,Internship letter request,Medium
+S0399,Internship letter request,Medium
+S0400,Bonafide certificate request,Medium
+S0401,Library timings inquiry,Low
+S0402,Hall ticket not generated before exam,High
+S0403,Exam result not published,High
+S0404,Fee payment issue before deadline,High
+S0405,Website navigation help,Low
+S0406,Bonafide certificate request,Medium
+S0407,Scholarship not credited,High
+S0408,Library access issue,Medium
+S0409,Library timings inquiry,Low
+S0410,Academic calendar request,Low
+S0411,Fee payment issue before deadline,High
+S0412,Internship letter request,Medium
+S0413,Elective subject change request,Medium
+S0414,Fee payment issue before deadline,High
+S0415,Bonafide certificate request,Medium
+S0416,Library timings inquiry,Low
+S0417,Exam result not published,High
+S0418,Hall ticket not generated before exam,High
+S0419,Hall ticket not generated before exam,High
+S0420,Fee payment issue before deadline,High
+S0421,Scholarship not credited,High
+S0422,Hall ticket not generated before exam,High
+S0423,Website navigation help,Low
+S0424,Library timings inquiry,Low
+S0425,Exam result not published,High
+S0426,Fee payment issue before deadline,High
+S0427,Campus map request,Low
+S0428,Library access issue,Medium
+S0429,Missed exam due to medical emergency,High
+S0430,Internship letter request,Medium
+S0431,Academic calendar request,Low
+S0432,Missed exam due to medical emergency,High
+S0433,Website navigation help,Low
+S0434,Internship letter request,Medium
+S0435,Academic calendar request,Low
+S0436,Hall ticket not generated before exam,High
+S0437,Fee payment issue before deadline,High
+S0438,Bonafide certificate request,Medium
+S0439,Missed exam due to medical emergency,High
+S0440,Internship letter request,Medium
+S0441,Bonafide certificate request,Medium
+S0442,Library timings inquiry,Low
+S0443,Exam result not published,High
+S0444,Elective subject change request,Medium
+S0445,Library access issue,Medium
+S0446,Academic calendar request,Low
+S0447,Website navigation help,Low
+S0448,Event information query,Low
+S0449,Elective subject change request,Medium
+S0450,Elective subject change request,Medium
+S0451,Hostel accommodation query,Medium
+S0452,Website navigation help,Low
+S0453,Scholarship not credited,High
+S0454,Elective subject change request,Medium
+S0455,Hostel accommodation query,Medium
+S0456,Missed exam due to medical emergency,High
+S0457,Event information query,Low
+S0458,Bonafide certificate request,Medium
+S0459,Library access issue,Medium
+S0460,Exam result not published,High
+S0461,Academic calendar request,Low
+S0462,Missed exam due to medical emergency,High
+S0463,Bonafide certificate request,Medium
+S0464,Elective subject change request,Medium
+S0465,Event information query,Low
+S0466,Scholarship not credited,High
+S0467,Bonafide certificate request,Medium
+S0468,Library timings inquiry,Low
+S0469,Library access issue,Medium
+S0470,Internship letter request,Medium
+S0471,Internship letter request,Medium
+S0472,Missed exam due to medical emergency,High
+S0473,Website navigation help,Low
+S0474,Scholarship not credited,High
+S0475,Elective subject change request,Medium
+S0476,Library timings inquiry,Low
+S0477,Academic calendar request,Low
+S0478,Website navigation help,Low
+S0479,Missed exam due to medical emergency,High
+S0480,Campus map request,Low
+S0481,Fee payment issue before deadline,High
+S0482,Missed exam due to medical emergency,High
+S0483,Exam result not published,High
+S0484,Library access issue,Medium
+S0485,Campus map request,Low
+S0486,Website navigation help,Low
+S0487,Hall ticket not generated before exam,High
+S0488,Bonafide certificate request,Medium
+S0489,Internship letter request,Medium
+S0490,Elective subject change request,Medium
+S0491,Elective subject change request,Medium
+S0492,Academic calendar request,Low
+S0493,Scholarship not credited,High
+S0494,Exam result not published,High
+S0495,Bonafide certificate request,Medium
+S0496,Scholarship not credited,High
+S0497,Event information query,Low
+S0498,Scholarship not credited,High
+S0499,Library access issue,Medium
+S0500,Academic calendar request,Low
+S0501,Website navigation help,Low
+S0502,Elective subject change request,Medium
+S0503,Exam result not published,High
+S0504,Event information query,Low
+S0505,Academic calendar request,Low
+S0506,Elective subject change request,Medium
+S0507,Exam result not published,High
+S0508,Hostel accommodation query,Medium
+S0509,Website navigation help,Low
+S0510,Library access issue,Medium
+S0511,Website navigation help,Low
+S0512,Website navigation help,Low
+S0513,Scholarship not credited,High
+S0514,Campus map request,Low
+S0515,Scholarship not credited,High
+S0516,Elective subject change request,Medium
+S0517,Hostel accommodation query,Medium
+S0518,Hall ticket not generated before exam,High
+S0519,Bonafide certificate request,Medium
+S0520,Library access issue,Medium
+S0521,Elective subject change request,Medium
+S0522,Exam result not published,High
+S0523,Missed exam due to medical emergency,High
+S0524,Missed exam due to medical emergency,High
+S0525,Website navigation help,Low
+S0526,Academic calendar request,Low
+S0527,Campus map request,Low
+S0528,Library timings inquiry,Low
+S0529,Hostel accommodation query,Medium
+S0530,Fee payment issue before deadline,High
+S0531,Hostel accommodation query,Medium
+S0532,Event information query,Low
+S0533,Campus map request,Low
+S0534,Academic calendar request,Low
+S0535,Missed exam due to medical emergency,High
+S0536,Bonafide certificate request,Medium
+S0537,Elective subject change request,Medium
+S0538,Scholarship not credited,High
+S0539,Website navigation help,Low
+S0540,Bonafide certificate request,Medium
+S0541,Exam result not published,High
+S0542,Campus map request,Low
+S0543,Event information query,Low
+S0544,Elective subject change request,Medium
+S0545,Hostel accommodation query,Medium
+S0546,Academic calendar request,Low
+S0547,Library timings inquiry,Low
+S0548,Website navigation help,Low
+S0549,Hostel accommodation query,Medium
+S0550,Scholarship not credited,High
+S0551,Website navigation help,Low
+S0552,Bonafide certificate request,Medium
+S0553,Hall ticket not generated before exam,High
+S0554,Website navigation help,Low
+S0555,Hall ticket not generated before exam,High
+S0556,Missed exam due to medical emergency,High
+S0557,Hall ticket not generated before exam,High
+S0558,Library timings inquiry,Low
+S0559,Academic calendar request,Low
+S0560,Exam result not published,High
+S0561,Event information query,Low
+S0562,Fee payment issue before deadline,High
+S0563,Library access issue,Medium
+S0564,Academic calendar request,Low
+S0565,Campus map request,Low
+S0566,Scholarship not credited,High
+S0567,Exam result not published,High
+S0568,Bonafide certificate request,Medium
+S0569,Hall ticket not generated before exam,High
+S0570,Fee payment issue before deadline,High
+S0571,Hall ticket not generated before exam,High
+S0572,Library timings inquiry,Low
+S0573,Event information query,Low
+S0574,Website navigation help,Low
+S0575,Hostel accommodation query,Medium
+S0576,Elective subject change request,Medium
+S0577,Missed exam due to medical emergency,High
+S0578,Campus map request,Low
+S0579,Campus map request,Low
+S0580,Elective subject change request,Medium
+S0581,Academic calendar request,Low
+S0582,Elective subject change request,Medium
+S0583,Hall ticket not generated before exam,High
+S0584,Website navigation help,Low
+S0585,Exam result not published,High
+S0586,Library timings inquiry,Low
+S0587,Scholarship not credited,High
+S0588,Academic calendar request,Low
+S0589,Event information query,Low
+S0590,Bonafide certificate request,Medium
+S0591,Academic calendar request,Low
+S0592,Scholarship not credited,High
+S0593,Bonafide certificate request,Medium
+S0594,Fee payment issue before deadline,High
+S0595,Library access issue,Medium
+S0596,Missed exam due to medical emergency,High
+S0597,Hall ticket not generated before exam,High
+S0598,Campus map request,Low
+S0599,Academic calendar request,Low
+S0600,Library access issue,Medium
+S0601,Exam result not published,High
+S0602,Exam result not published,High
+S0603,Library timings inquiry,Low
+S0604,Fee payment issue before deadline,High
+S0605,Fee payment issue before deadline,High
+S0606,Fee payment issue before deadline,High
+S0607,Library access issue,Medium
+S0608,Hall ticket not generated before exam,High
+S0609,Fee payment issue before deadline,High
+S0610,Missed exam due to medical emergency,High
+S0611,Library timings inquiry,Low
+S0612,Scholarship not credited,High
+S0613,Bonafide certificate request,Medium
+S0614,Hostel accommodation query,Medium
+S0615,Library timings inquiry,Low
+S0616,Internship letter request,Medium
+S0617,Bonafide certificate request,Medium
+S0618,Elective subject change request,Medium
+S0619,Bonafide certificate request,Medium
+S0620,Exam result not published,High
+S0621,Elective subject change request,Medium
+S0622,Elective subject change request,Medium
+S0623,Internship letter request,Medium
+S0624,Hostel accommodation query,Medium
+S0625,Missed exam due to medical emergency,High
+S0626,Elective subject change request,Medium
+S0627,Academic calendar request,Low
+S0628,Fee payment issue before deadline,High
+S0629,Scholarship not credited,High
+S0630,Campus map request,Low
+S0631,Website navigation help,Low
+S0632,Elective subject change request,Medium
+S0633,Scholarship not credited,High
+S0634,Hostel accommodation query,Medium
+S0635,Exam result not published,High
+S0636,Library timings inquiry,Low
+S0637,Website navigation help,Low
+S0638,Website navigation help,Low
+S0639,Missed exam due to medical emergency,High
+S0640,Fee payment issue before deadline,High
+S0641,Hall ticket not generated before exam,High
+S0642,Fee payment issue before deadline,High
+S0643,Event information query,Low
+S0644,Website navigation help,Low
+S0645,Elective subject change request,Medium
+S0646,Academic calendar request,Low
+S0647,Library timings inquiry,Low
+S0648,Fee payment issue before deadline,High
+S0649,Exam result not published,High
+S0650,Scholarship not credited,High
+S0651,Library access issue,Medium
+S0652,Campus map request,Low
+S0653,Hostel accommodation query,Medium
+S0654,Website navigation help,Low
+S0655,Hall ticket not generated before exam,High
+S0656,Library timings inquiry,Low
+S0657,Academic calendar request,Low
+S0658,Library access issue,Medium
+S0659,Library access issue,Medium
+S0660,Elective subject change request,Medium
+S0661,Website navigation help,Low
+S0662,Website navigation help,Low
+S0663,Hostel accommodation query,Medium
+S0664,Website navigation help,Low
+S0665,Hostel accommodation query,Medium
+S0666,Website navigation help,Low
+S0667,Hall ticket not generated before exam,High
+S0668,Hostel accommodation query,Medium
+S0669,Missed exam due to medical emergency,High
+S0670,Hall ticket not generated before exam,High
+S0671,Campus map request,Low
+S0672,Scholarship not credited,High
+S0673,Campus map request,Low
+S0674,Hostel accommodation query,Medium
+S0675,Hall ticket not generated before exam,High
+S0676,Scholarship not credited,High
+S0677,Academic calendar request,Low
+S0678,Bonafide certificate request,Medium
+S0679,Hall ticket not generated before exam,High
+S0680,Exam result not published,High
+S0681,Hall ticket not generated before exam,High
+S0682,Elective subject change request,Medium
+S0683,Bonafide certificate request,Medium
+S0684,Bonafide certificate request,Medium
+S0685,Bonafide certificate request,Medium
+S0686,Hostel accommodation query,Medium
+S0687,Fee payment issue before deadline,High
+S0688,Library access issue,Medium
+S0689,Internship letter request,Medium
+S0690,Fee payment issue before deadline,High
+S0691,Library timings inquiry,Low
+S0692,Missed exam due to medical emergency,High
+S0693,Elective subject change request,Medium
+S0694,Hall ticket not generated before exam,High
+S0695,Exam result not published,High
+S0696,Academic calendar request,Low
+S0697,Library access issue,Medium
+S0698,Library timings inquiry,Low
+S0699,Missed exam due to medical emergency,High
+S0700,Library timings inquiry,Low
+S0701,Bonafide certificate request,Medium
+S0702,Scholarship not credited,High
+S0703,Fee payment issue before deadline,High
+S0704,Fee payment issue before deadline,High
+S0705,Campus map request,Low
+S0706,Campus map request,Low
+S0707,Library timings inquiry,Low
+S0708,Website navigation help,Low
+S0709,Website navigation help,Low
+S0710,Academic calendar request,Low
+S0711,Internship letter request,Medium
+S0712,Fee payment issue before deadline,High
+S0713,Library access issue,Medium
+S0714,Campus map request,Low
+S0715,Event information query,Low
+S0716,Event information query,Low
+S0717,Fee payment issue before deadline,High
+S0718,Elective subject change request,Medium
+S0719,Exam result not published,High
+S0720,Internship letter request,Medium
+S0721,Website navigation help,Low
+S0722,Bonafide certificate request,Medium
+S0723,Elective subject change request,Medium
+S0724,Library access issue,Medium
+S0725,Bonafide certificate request,Medium
+S0726,Internship letter request,Medium
+S0727,Academic calendar request,Low
+S0728,Exam result not published,High
+S0729,Fee payment issue before deadline,High
+S0730,Internship letter request,Medium
+S0731,Hostel accommodation query,Medium
+S0732,Elective subject change request,Medium
+S0733,Internship letter request,Medium
+S0734,Library timings inquiry,Low
+S0735,Bonafide certificate request,Medium
+S0736,Library access issue,Medium
+S0737,Scholarship not credited,High
+S0738,Elective subject change request,Medium
+S0739,Academic calendar request,Low
+S0740,Fee payment issue before deadline,High
+S0741,Hostel accommodation query,Medium
+S0742,Missed exam due to medical emergency,High
+S0743,Library timings inquiry,Low
+S0744,Website navigation help,Low
+S0745,Elective subject change request,Medium
+S0746,Internship letter request,Medium
+S0747,Fee payment issue before deadline,High
+S0748,Fee payment issue before deadline,High
+S0749,Internship letter request,Medium
+S0750,Library access issue,Medium
+S0751,Exam result not published,High
+S0752,Website navigation help,Low
+S0753,Missed exam due to medical emergency,High
+S0754,Academic calendar request,Low
+S0755,Hostel accommodation query,Medium
+S0756,Event information query,Low
+S0757,Internship letter request,Medium
+S0758,Event information query,Low
+S0759,Library timings inquiry,Low
+S0760,Hostel accommodation query,Medium
+S0761,Bonafide certificate request,Medium
+S0762,Exam result not published,High
+S0763,Internship letter request,Medium
+S0764,Scholarship not credited,High
+S0765,Exam result not published,High
+S0766,Library access issue,Medium
+S0767,Bonafide certificate request,Medium
+S0768,Library timings inquiry,Low
+S0769,Elective subject change request,Medium
+S0770,Internship letter request,Medium
+S0771,Academic calendar request,Low
+S0772,Hostel accommodation query,Medium
+S0773,Campus map request,Low
+S0774,Missed exam due to medical emergency,High
+S0775,Library timings inquiry,Low
+S0776,Fee payment issue before deadline,High
+S0777,Hall ticket not generated before exam,High
+S0778,Internship letter request,Medium
+S0779,Fee payment issue before deadline,High
+S0780,Library access issue,Medium
+S0781,Hostel accommodation query,Medium
+S0782,Elective subject change request,Medium
+S0783,Elective subject change request,Medium
+S0784,Academic calendar request,Low
+S0785,Library access issue,Medium
+S0786,Academic calendar request,Low
+S0787,Internship letter request,Medium
+S0788,Hostel accommodation query,Medium
+S0789,Event information query,Low
+S0790,Fee payment issue before deadline,High
+S0791,Event information query,Low
+S0792,Academic calendar request,Low
+S0793,Hall ticket not generated before exam,High
+S0794,Library access issue,Medium
+S0795,Elective subject change request,Medium
+S0796,Bonafide certificate request,Medium
+S0797,Elective subject change request,Medium
+S0798,Missed exam due to medical emergency,High
+S0799,Website navigation help,Low
+S0800,Missed exam due to medical emergency,High
+S0801,Event information query,Low
+S0802,Bonafide certificate request,Medium
+S0803,Elective subject change request,Medium
+S0804,Website navigation help,Low
+S0805,Campus map request,Low
+S0806,Event information query,Low
+S0807,Academic calendar request,Low
+S0808,Event information query,Low
+S0809,Bonafide certificate request,Medium
+S0810,Fee payment issue before deadline,High
+S0811,Library access issue,Medium
+S0812,Hall ticket not generated before exam,High
+S0813,Campus map request,Low
+S0814,Exam result not published,High
+S0815,Scholarship not credited,High
+S0816,Event information query,Low
+S0817,Exam result not published,High
+S0818,Website navigation help,Low
+S0819,Bonafide certificate request,Medium
+S0820,Library access issue,Medium
+S0821,Fee payment issue before deadline,High
+S0822,Missed exam due to medical emergency,High
+S0823,Event information query,Low
+S0824,Elective subject change request,Medium
+S0825,Campus map request,Low
+S0826,Exam result not published,High
+S0827,Library access issue,Medium
+S0828,Fee payment issue before deadline,High
+S0829,Missed exam due to medical emergency,High
+S0830,Fee payment issue before deadline,High
+S0831,Missed exam due to medical emergency,High
+S0832,Exam result not published,High
+S0833,Missed exam due to medical emergency,High
+S0834,Campus map request,Low
+S0835,Event information query,Low
+S0836,Missed exam due to medical emergency,High
+S0837,Hall ticket not generated before exam,High
+S0838,Internship letter request,Medium
+S0839,Library timings inquiry,Low
+S0840,Internship letter request,Medium
+S0841,Internship letter request,Medium
+S0842,Website navigation help,Low
+S0843,Website navigation help,Low
+S0844,Library timings inquiry,Low
+S0845,Elective subject change request,Medium
+S0846,Missed exam due to medical emergency,High
+S0847,Hostel accommodation query,Medium
+S0848,Library timings inquiry,Low
+S0849,Hostel accommodation query,Medium
+S0850,Campus map request,Low
+S0851,Internship letter request,Medium
+S0852,Hall ticket not generated before exam,High
+S0853,Hostel accommodation query,Medium
+S0854,Scholarship not credited,High
+S0855,Fee payment issue before deadline,High
+S0856,Scholarship not credited,High
+S0857,Website navigation help,Low
+S0858,Exam result not published,High
+S0859,Campus map request,Low
+S0860,Elective subject change request,Medium
+S0861,Campus map request,Low
+S0862,Bonafide certificate request,Medium
+S0863,Hostel accommodation query,Medium
+S0864,Campus map request,Low
+S0865,Bonafide certificate request,Medium
+S0866,Hall ticket not generated before exam,High
+S0867,Academic calendar request,Low
+S0868,Hostel accommodation query,Medium
+S0869,Fee payment issue before deadline,High
+S0870,Bonafide certificate request,Medium
+S0871,Elective subject change request,Medium
+S0872,Academic calendar request,Low
+S0873,Event information query,Low
+S0874,Library timings inquiry,Low
+S0875,Internship letter request,Medium
+S0876,Internship letter request,Medium
+S0877,Fee payment issue before deadline,High
+S0878,Library timings inquiry,Low
+S0879,Scholarship not credited,High
+S0880,Library timings inquiry,Low
+S0881,Scholarship not credited,High
+S0882,Library timings inquiry,Low
+S0883,Internship letter request,Medium
+S0884,Internship letter request,Medium
+S0885,Elective subject change request,Medium
+S0886,Hostel accommodation query,Medium
+S0887,Library timings inquiry,Low
+S0888,Event information query,Low
+S0889,Event information query,Low
+S0890,Event information query,Low
+S0891,Exam result not published,High
+S0892,Bonafide certificate request,Medium
+S0893,Library access issue,Medium
+S0894,Bonafide certificate request,Medium
+S0895,Missed exam due to medical emergency,High
+S0896,Event information query,Low
+S0897,Academic calendar request,Low
+S0898,Hostel accommodation query,Medium
+S0899,Missed exam due to medical emergency,High
+S0900,Library access issue,Medium
+S0901,Missed exam due to medical emergency,High
+S0902,Missed exam due to medical emergency,High
+S0903,Bonafide certificate request,Medium
+S0904,Internship letter request,Medium
+S0905,Elective subject change request,Medium
+S0906,Hall ticket not generated before exam,High
+S0907,Scholarship not credited,High
+S0908,Academic calendar request,Low
+S0909,Academic calendar request,Low
+S0910,Campus map request,Low
+S0911,Hostel accommodation query,Medium
+S0912,Elective subject change request,Medium
+S0913,Library timings inquiry,Low
+S0914,Library access issue,Medium
+S0915,Library access issue,Medium
+S0916,Elective subject change request,Medium
+S0917,Hostel accommodation query,Medium
+S0918,Bonafide certificate request,Medium
+S0919,Academic calendar request,Low
+S0920,Exam result not published,High
+S0921,Scholarship not credited,High
+S0922,Internship letter request,Medium
+S0923,Hall ticket not generated before exam,High
+S0924,Hostel accommodation query,Medium
+S0925,Website navigation help,Low
+S0926,Internship letter request,Medium
+S0927,Hostel accommodation query,Medium
+S0928,Internship letter request,Medium
+S0929,Scholarship not credited,High
+S0930,Bonafide certificate request,Medium
+S0931,Missed exam due to medical emergency,High
+S0932,Academic calendar request,Low
+S0933,Event information query,Low
+S0934,Library access issue,Medium
+S0935,Internship letter request,Medium
+S0936,Missed exam due to medical emergency,High
+S0937,Fee payment issue before deadline,High
+S0938,Scholarship not credited,High
+S0939,Scholarship not credited,High
+S0940,Hall ticket not generated before exam,High
+S0941,Event information query,Low
+S0942,Exam result not published,High
+S0943,Scholarship not credited,High
+S0944,Academic calendar request,Low
+S0945,Exam result not published,High
+S0946,Website navigation help,Low
+S0947,Library timings inquiry,Low
+S0948,Exam result not published,High
+S0949,Library timings inquiry,Low
+S0950,Bonafide certificate request,Medium
+S0951,Internship letter request,Medium
+S0952,Website navigation help,Low
+S0953,Fee payment issue before deadline,High
+S0954,Academic calendar request,Low
+S0955,Website navigation help,Low
+S0956,Fee payment issue before deadline,High
+S0957,Hall ticket not generated before exam,High
+S0958,Academic calendar request,Low
+S0959,Exam result not published,High
+S0960,Scholarship not credited,High
+S0961,Campus map request,Low
+S0962,Bonafide certificate request,Medium
+S0963,Event information query,Low
+S0964,Internship letter request,Medium
+S0965,Academic calendar request,Low
+S0966,Library timings inquiry,Low
+S0967,Internship letter request,Medium
+S0968,Elective subject change request,Medium
+S0969,Elective subject change request,Medium
+S0970,Bonafide certificate request,Medium
+S0971,Campus map request,Low
+S0972,Library access issue,Medium
+S0973,Bonafide certificate request,Medium
+S0974,Event information query,Low
+S0975,Hostel accommodation query,Medium
+S0976,Academic calendar request,Low
+S0977,Event information query,Low
+S0978,Scholarship not credited,High
+S0979,Hall ticket not generated before exam,High
+S0980,Elective subject change request,Medium
+S0981,Hall ticket not generated before exam,High
+S0982,Hall ticket not generated before exam,High
+S0983,Event information query,Low
+S0984,Website navigation help,Low
+S0985,Scholarship not credited,High
+S0986,Missed exam due to medical emergency,High
+S0987,Missed exam due to medical emergency,High
+S0988,Scholarship not credited,High
+S0989,Website navigation help,Low
+S0990,Bonafide certificate request,Medium
+S0991,Website navigation help,Low
+S0992,Website navigation help,Low
+S0993,Elective subject change request,Medium
+S0994,Library access issue,Medium
+S0995,Event information query,Low
+S0996,Exam result not published,High
+S0997,Exam result not published,High
+S0998,Hall ticket not generated before exam,High
+S0999,Fee payment issue before deadline,High
+S1000,Exam result not published,High
+S1001,Hostel accommodation query,Medium
+S1002,Scholarship not credited,High
+S1003,Fee payment issue before deadline,High
+S1004,Library access issue,Medium
+S1005,Fee payment issue before deadline,High
+S1006,Exam result not published,High
+S1007,Campus map request,Low
+S1008,Internship letter request,Medium
+S1009,Fee payment issue before deadline,High
+S1010,Missed exam due to medical emergency,High
+S1011,Campus map request,Low
+S1012,Bonafide certificate request,Medium
+S1013,Elective subject change request,Medium
+S1014,Missed exam due to medical emergency,High
+S1015,Library timings inquiry,Low
+S1016,Event information query,Low
+S1017,Fee payment issue before deadline,High
+S1018,Internship letter request,Medium
+S1019,Website navigation help,Low
+S1020,Exam result not published,High
+S1021,Library access issue,Medium
+S1022,Scholarship not credited,High
+S1023,Missed exam due to medical emergency,High
+S1024,Event information query,Low
+S1025,Fee payment issue before deadline,High
+S1026,Scholarship not credited,High
+S1027,Exam result not published,High
+S1028,Fee payment issue before deadline,High
+S1029,Elective subject change request,Medium
+S1030,Website navigation help,Low
+S1031,Hall ticket not generated before exam,High
+S1032,Scholarship not credited,High
+S1033,Academic calendar request,Low
+S1034,Library timings inquiry,Low
+S1035,Fee payment issue before deadline,High
+S1036,Hall ticket not generated before exam,High
+S1037,Exam result not published,High
+S1038,Campus map request,Low
+S1039,Scholarship not credited,High
+S1040,Elective subject change request,Medium
+S1041,Library access issue,Medium
+S1042,Library timings inquiry,Low
+S1043,Fee payment issue before deadline,High
+S1044,Library timings inquiry,Low
+S1045,Exam result not published,High
+S1046,Missed exam due to medical emergency,High
+S1047,Event information query,Low
+S1048,Website navigation help,Low
+S1049,Exam result not published,High
+S1050,Library timings inquiry,Low
+S1051,Academic calendar request,Low
+S1052,Academic calendar request,Low
+S1053,Exam result not published,High
+S1054,Hostel accommodation query,Medium
+S1055,Event information query,Low
+S1056,Library access issue,Medium
+S1057,Missed exam due to medical emergency,High
+S1058,Internship letter request,Medium
+S1059,Missed exam due to medical emergency,High
+S1060,Bonafide certificate request,Medium
+S1061,Exam result not published,High
+S1062,Website navigation help,Low
+S1063,Website navigation help,Low
+S1064,Bonafide certificate request,Medium
+S1065,Website navigation help,Low
+S1066,Event information query,Low
+S1067,Missed exam due to medical emergency,High
+S1068,Scholarship not credited,High
+S1069,Library access issue,Medium
+S1070,Campus map request,Low
+S1071,Event information query,Low
+S1072,Scholarship not credited,High
+S1073,Bonafide certificate request,Medium
+S1074,Internship letter request,Medium
+S1075,Bonafide certificate request,Medium
+S1076,Website navigation help,Low
+S1077,Exam result not published,High
+S1078,Exam result not published,High
+S1079,Library access issue,Medium
+S1080,Academic calendar request,Low
+S1081,Fee payment issue before deadline,High
+S1082,Library access issue,Medium
+S1083,Hall ticket not generated before exam,High
+S1084,Missed exam due to medical emergency,High
+S1085,Website navigation help,Low
+S1086,Fee payment issue before deadline,High
+S1087,Website navigation help,Low
+S1088,Event information query,Low
+S1089,Exam result not published,High
+S1090,Bonafide certificate request,Medium
+S1091,Website navigation help,Low
+S1092,Academic calendar request,Low
+S1093,Library access issue,Medium
+S1094,Missed exam due to medical emergency,High
+S1095,Missed exam due to medical emergency,High
+S1096,Hall ticket not generated before exam,High
+S1097,Library access issue,Medium
+S1098,Missed exam due to medical emergency,High
+S1099,Library timings inquiry,Low
+S1100,Library timings inquiry,Low
+S1101,Elective subject change request,Medium
+S1102,Library timings inquiry,Low
+S1103,Campus map request,Low
+S1104,Elective subject change request,Medium
+S1105,Hall ticket not generated before exam,High
+S1106,Hall ticket not generated before exam,High
+S1107,Event information query,Low
+S1108,Elective subject change request,Medium
+S1109,Hall ticket not generated before exam,High
+S1110,Scholarship not credited,High
+S1111,Exam result not published,High
+S1112,Campus map request,Low
+S1113,Elective subject change request,Medium
+S1114,Website navigation help,Low
+S1115,Hall ticket not generated before exam,High
+S1116,Missed exam due to medical emergency,High
+S1117,Website navigation help,Low
+S1118,Scholarship not credited,High
+S1119,Event information query,Low
+S1120,Bonafide certificate request,Medium
+S1121,Internship letter request,Medium
+S1122,Elective subject change request,Medium
+S1123,Hostel accommodation query,Medium
+S1124,Event information query,Low
+S1125,Event information query,Low
+S1126,Hostel accommodation query,Medium
+S1127,Fee payment issue before deadline,High
+S1128,Library access issue,Medium
+S1129,Academic calendar request,Low
+S1130,Missed exam due to medical emergency,High
+S1131,Event information query,Low
+S1132,Elective subject change request,Medium
+S1133,Hostel accommodation query,Medium
+S1134,Elective subject change request,Medium
+S1135,Fee payment issue before deadline,High
+S1136,Scholarship not credited,High
+S1137,Exam result not published,High
+S1138,Library access issue,Medium
+S1139,Scholarship not credited,High
+S1140,Hostel accommodation query,Medium
+S1141,Academic calendar request,Low
+S1142,Campus map request,Low
+S1143,Missed exam due to medical emergency,High
+S1144,Internship letter request,Medium
+S1145,Elective subject change request,Medium
+S1146,Website navigation help,Low
+S1147,Event information query,Low
+S1148,Bonafide certificate request,Medium
+S1149,Exam result not published,High
+S1150,Academic calendar request,Low
+S1151,Library access issue,Medium
+S1152,Elective subject change request,Medium
+S1153,Campus map request,Low
+S1154,Library access issue,Medium
+S1155,Library access issue,Medium
+S1156,Hostel accommodation query,Medium
+S1157,Campus map request,Low
+S1158,Library access issue,Medium
+S1159,Missed exam due to medical emergency,High
+S1160,Hall ticket not generated before exam,High
+S1161,Missed exam due to medical emergency,High
+S1162,Exam result not published,High
+S1163,Hall ticket not generated before exam,High
+S1164,Internship letter request,Medium
+S1165,Campus map request,Low
+S1166,Hall ticket not generated before exam,High
+S1167,Internship letter request,Medium
+S1168,Hostel accommodation query,Medium
+S1169,Library access issue,Medium
+S1170,Missed exam due to medical emergency,High
+S1171,Campus map request,Low
+S1172,Fee payment issue before deadline,High
+S1173,Campus map request,Low
+S1174,Library access issue,Medium
+S1175,Fee payment issue before deadline,High
+S1176,Elective subject change request,Medium
+S1177,Scholarship not credited,High
+S1178,Fee payment issue before deadline,High
+S1179,Event information query,Low
+S1180,Event information query,Low
+S1181,Bonafide certificate request,Medium
+S1182,Academic calendar request,Low
+S1183,Hall ticket not generated before exam,High
+S1184,Scholarship not credited,High
+S1185,Hall ticket not generated before exam,High
+S1186,Scholarship not credited,High
+S1187,Library access issue,Medium
+S1188,Hostel accommodation query,Medium
+S1189,Event information query,Low
+S1190,Academic calendar request,Low
+S1191,Academic calendar request,Low
+S1192,Internship letter request,Medium
+S1193,Scholarship not credited,High
+S1194,Hostel accommodation query,Medium
+S1195,Website navigation help,Low
+S1196,Exam result not published,High
+S1197,Hall ticket not generated before exam,High
+S1198,Library timings inquiry,Low
+S1199,Hall ticket not generated before exam,High
+S1200,Internship letter request,Medium
+S1201,Exam result not published,High
+S1202,Hostel accommodation query,Medium
+S1203,Scholarship not credited,High
+S1204,Hall ticket not generated before exam,High
+S1205,Campus map request,Low
+S1206,Hall ticket not generated before exam,High
+S1207,Website navigation help,Low
+S1208,Fee payment issue before deadline,High
+S1209,Hall ticket not generated before exam,High
+S1210,Bonafide certificate request,Medium
+S1211,Hostel accommodation query,Medium
+S1212,Hall ticket not generated before exam,High
+S1213,Bonafide certificate request,Medium
+S1214,Library access issue,Medium
+S1215,Internship letter request,Medium
+S1216,Hall ticket not generated before exam,High
+S1217,Exam result not published,High
+S1218,Exam result not published,High
+S1219,Campus map request,Low
+S1220,Library timings inquiry,Low
+S1221,Hall ticket not generated before exam,High
+S1222,Exam result not published,High
+S1223,Library access issue,Medium
+S1224,Website navigation help,Low
+S1225,Campus map request,Low
+S1226,Library access issue,Medium
+S1227,Hostel accommodation query,Medium
+S1228,Elective subject change request,Medium
+S1229,Hostel accommodation query,Medium
+S1230,Elective subject change request,Medium
+S1231,Academic calendar request,Low
+S1232,Exam result not published,High
+S1233,Campus map request,Low
+S1234,Missed exam due to medical emergency,High
+S1235,Library timings inquiry,Low
+S1236,Hostel accommodation query,Medium
+S1237,Hall ticket not generated before exam,High
+S1238,Library access issue,Medium
+S1239,Hall ticket not generated before exam,High
+S1240,Hostel accommodation query,Medium
+S1241,Exam result not published,High
+S1242,Campus map request,Low
+S1243,Library timings inquiry,Low
+S1244,Library timings inquiry,Low
+S1245,Missed exam due to medical emergency,High
+S1246,Campus map request,Low
+S1247,Bonafide certificate request,Medium
+S1248,Hall ticket not generated before exam,High
+S1249,Scholarship not credited,High
+S1250,Event information query,Low
+S1251,Hostel accommodation query,Medium
+S1252,Hostel accommodation query,Medium
+S1253,Fee payment issue before deadline,High
+S1254,Missed exam due to medical emergency,High
+S1255,Exam result not published,High
+S1256,Elective subject change request,Medium
+S1257,Website navigation help,Low
+S1258,Hall ticket not generated before exam,High
+S1259,Scholarship not credited,High
+S1260,Elective subject change request,Medium
+S1261,Event information query,Low
+S1262,Exam result not published,High
+S1263,Library access issue,Medium
+S1264,Elective subject change request,Medium
+S1265,Hostel accommodation query,Medium
+S1266,Fee payment issue before deadline,High
+S1267,Exam result not published,High
+S1268,Hall ticket not generated before exam,High
+S1269,Hall ticket not generated before exam,High
+S1270,Hall ticket not generated before exam,High
+S1271,Website navigation help,Low
+S1272,Website navigation help,Low
+S1273,Campus map request,Low
+S1274,Hostel accommodation query,Medium
+S1275,Hall ticket not generated before exam,High
+S1276,Library access issue,Medium
+S1277,Event information query,Low
+S1278,Website navigation help,Low
+S1279,Bonafide certificate request,Medium
+S1280,Exam result not published,High
+S1281,Exam result not published,High
+S1282,Fee payment issue before deadline,High
+S1283,Library timings inquiry,Low
+S1284,Exam result not published,High
+S1285,Exam result not published,High
+S1286,Campus map request,Low
+S1287,Hall ticket not generated before exam,High
+S1288,Event information query,Low
+S1289,Bonafide certificate request,Medium
+S1290,Scholarship not credited,High
+S1291,Missed exam due to medical emergency,High
+S1292,Hostel accommodation query,Medium
+S1293,Website navigation help,Low
+S1294,Fee payment issue before deadline,High
+S1295,Library timings inquiry,Low
+S1296,Internship letter request,Medium
+S1297,Event information query,Low
+S1298,Internship letter request,Medium
+S1299,Library access issue,Medium
+S1300,Website navigation help,Low
+S1301,Hostel accommodation query,Medium
+S1302,Hostel accommodation query,Medium
+S1303,Academic calendar request,Low
+S1304,Library timings inquiry,Low
+S1305,Academic calendar request,Low
+S1306,Website navigation help,Low
+S1307,Bonafide certificate request,Medium
+S1308,Bonafide certificate request,Medium
+S1309,Exam result not published,High
+S1310,Academic calendar request,Low
+S1311,Library access issue,Medium
+S1312,Website navigation help,Low
+S1313,Academic calendar request,Low
+S1314,Elective subject change request,Medium
+S1315,Library access issue,Medium
+S1316,Campus map request,Low
+S1317,Elective subject change request,Medium
+S1318,Website navigation help,Low
+S1319,Fee payment issue before deadline,High
+S1320,Bonafide certificate request,Medium
+S1321,Bonafide certificate request,Medium
+S1322,Website navigation help,Low
+S1323,Hall ticket not generated before exam,High
+S1324,Hall ticket not generated before exam,High
+S1325,Hall ticket not generated before exam,High
+S1326,Bonafide certificate request,Medium
+S1327,Fee payment issue before deadline,High
+S1328,Fee payment issue before deadline,High
+S1329,Missed exam due to medical emergency,High
+S1330,Exam result not published,High
+S1331,Missed exam due to medical emergency,High
+S1332,Fee payment issue before deadline,High
+S1333,Website navigation help,Low
+S1334,Hall ticket not generated before exam,High
+S1335,Library access issue,Medium
+S1336,Missed exam due to medical emergency,High
+S1337,Exam result not published,High
+S1338,Library access issue,Medium
+S1339,Library timings inquiry,Low
+S1340,Website navigation help,Low
+S1341,Internship letter request,Medium
+S1342,Library access issue,Medium
+S1343,Campus map request,Low
+S1344,Scholarship not credited,High
+S1345,Library access issue,Medium
+S1346,Hall ticket not generated before exam,High
+S1347,Library access issue,Medium
+S1348,Hall ticket not generated before exam,High
+S1349,Hostel accommodation query,Medium
+S1350,Hostel accommodation query,Medium
+S1351,Fee payment issue before deadline,High
+S1352,Exam result not published,High
+S1353,Academic calendar request,Low
+S1354,Exam result not published,High
+S1355,Hall ticket not generated before exam,High
+S1356,Website navigation help,Low
+S1357,Website navigation help,Low
+S1358,Scholarship not credited,High
+S1359,Academic calendar request,Low
+S1360,Elective subject change request,Medium
+S1361,Scholarship not credited,High
+S1362,Fee payment issue before deadline,High
+S1363,Bonafide certificate request,Medium
+S1364,Scholarship not credited,High
+S1365,Library timings inquiry,Low
+S1366,Academic calendar request,Low
+S1367,Hostel accommodation query,Medium
+S1368,Elective subject change request,Medium
+S1369,Event information query,Low
+S1370,Website navigation help,Low
+S1371,Internship letter request,Medium
+S1372,Internship letter request,Medium
+S1373,Internship letter request,Medium
+S1374,Library timings inquiry,Low
+S1375,Website navigation help,Low
+S1376,Library timings inquiry,Low
+S1377,Website navigation help,Low
+S1378,Library access issue,Medium
+S1379,Event information query,Low
+S1380,Fee payment issue before deadline,High
+S1381,Fee payment issue before deadline,High
+S1382,Bonafide certificate request,Medium
+S1383,Fee payment issue before deadline,High
+S1384,Academic calendar request,Low
+S1385,Website navigation help,Low
+S1386,Fee payment issue before deadline,High
+S1387,Exam result not published,High
+S1388,Campus map request,Low
+S1389,Campus map request,Low
+S1390,Exam result not published,High
+S1391,Internship letter request,Medium
+S1392,Internship letter request,Medium
+S1393,Event information query,Low
+S1394,Scholarship not credited,High
+S1395,Bonafide certificate request,Medium
+S1396,Internship letter request,Medium
+S1397,Exam result not published,High
+S1398,Academic calendar request,Low
+S1399,Scholarship not credited,High
+S1400,Scholarship not credited,High
+S1401,Library access issue,Medium
+S1402,Exam result not published,High
+S1403,Hostel accommodation query,Medium
+S1404,Bonafide certificate request,Medium
+S1405,Elective subject change request,Medium
+S1406,Fee payment issue before deadline,High
+S1407,Academic calendar request,Low
+S1408,Internship letter request,Medium
+S1409,Hostel accommodation query,Medium
+S1410,Website navigation help,Low
+S1411,Exam result not published,High
+S1412,Scholarship not credited,High
+S1413,Elective subject change request,Medium
+S1414,Library timings inquiry,Low
+S1415,Exam result not published,High
+S1416,Academic calendar request,Low
+S1417,Hostel accommodation query,Medium
+S1418,Scholarship not credited,High
+S1419,Exam result not published,High
+S1420,Hall ticket not generated before exam,High
+S1421,Event information query,Low
+S1422,Campus map request,Low
+S1423,Library timings inquiry,Low
+S1424,Elective subject change request,Medium
+S1425,Missed exam due to medical emergency,High
+S1426,Hostel accommodation query,Medium
+S1427,Website navigation help,Low
+S1428,Event information query,Low
+S1429,Fee payment issue before deadline,High
+S1430,Event information query,Low
+S1431,Campus map request,Low
+S1432,Hostel accommodation query,Medium
+S1433,Bonafide certificate request,Medium
+S1434,Scholarship not credited,High
+S1435,Hall ticket not generated before exam,High
+S1436,Academic calendar request,Low
+S1437,Exam result not published,High
+S1438,Fee payment issue before deadline,High
+S1439,Event information query,Low
+S1440,Library access issue,Medium
+S1441,Hostel accommodation query,Medium
+S1442,Website navigation help,Low
+S1443,Academic calendar request,Low
+S1444,Website navigation help,Low
+S1445,Exam result not published,High
+S1446,Bonafide certificate request,Medium
+S1447,Academic calendar request,Low
+S1448,Website navigation help,Low
+S1449,Academic calendar request,Low
+S1450,Missed exam due to medical emergency,High
+S1451,Campus map request,Low
+S1452,Event information query,Low
+S1453,Elective subject change request,Medium
+S1454,Fee payment issue before deadline,High
+S1455,Event information query,Low
+S1456,Hostel accommodation query,Medium
+S1457,Event information query,Low
+S1458,Missed exam due to medical emergency,High
+S1459,Hall ticket not generated before exam,High
+S1460,Hostel accommodation query,Medium
+S1461,Website navigation help,Low
+S1462,Campus map request,Low
+S1463,Internship letter request,Medium
+S1464,Elective subject change request,Medium
+S1465,Academic calendar request,Low
+S1466,Elective subject change request,Medium
+S1467,Bonafide certificate request,Medium
+S1468,Hostel accommodation query,Medium
+S1469,Campus map request,Low
+S1470,Fee payment issue before deadline,High
+S1471,Library access issue,Medium
+S1472,Bonafide certificate request,Medium
+S1473,Academic calendar request,Low
+S1474,Fee payment issue before deadline,High
+S1475,Fee payment issue before deadline,High
+S1476,Hostel accommodation query,Medium
+S1477,Library access issue,Medium
+S1478,Internship letter request,Medium
+S1479,Library access issue,Medium
+S1480,Missed exam due to medical emergency,High
+S1481,Academic calendar request,Low
+S1482,Library access issue,Medium
+S1483,Elective subject change request,Medium
+S1484,Hostel accommodation query,Medium
+S1485,Exam result not published,High
+S1486,Hostel accommodation query,Medium
+S1487,Scholarship not credited,High
+S1488,Bonafide certificate request,Medium
+S1489,Hostel accommodation query,Medium
+S1490,Academic calendar request,Low
+S1491,Campus map request,Low
+S1492,Campus map request,Low
+S1493,Website navigation help,Low
+S1494,Missed exam due to medical emergency,High
+S1495,Internship letter request,Medium
+S1496,Campus map request,Low
+S1497,Academic calendar request,Low
+S1498,Missed exam due to medical emergency,High
+S1499,Website navigation help,Low
+S1500,Website navigation help,Low
+S1501,Library timings inquiry,Low
+S1502,Website navigation help,Low
+S1503,Event information query,Low
+S1504,Internship letter request,Medium
+S1505,Campus map request,Low
+S1506,Elective subject change request,Medium
+S1507,Internship letter request,Medium
+S1508,Hall ticket not generated before exam,High
+S1509,Bonafide certificate request,Medium
+S1510,Website navigation help,Low
+S1511,Missed exam due to medical emergency,High
+S1512,Event information query,Low
+S1513,Website navigation help,Low
+S1514,Event information query,Low
+S1515,Missed exam due to medical emergency,High
+S1516,Scholarship not credited,High
+S1517,Campus map request,Low
+S1518,Library timings inquiry,Low
+S1519,Event information query,Low
+S1520,Exam result not published,High
+S1521,Academic calendar request,Low
+S1522,Hall ticket not generated before exam,High
+S1523,Library timings inquiry,Low
+S1524,Hall ticket not generated before exam,High
+S1525,Scholarship not credited,High
+S1526,Website navigation help,Low
+S1527,Website navigation help,Low
+S1528,Hostel accommodation query,Medium
+S1529,Library timings inquiry,Low
+S1530,Bonafide certificate request,Medium
+S1531,Hall ticket not generated before exam,High
+S1532,Hall ticket not generated before exam,High
+S1533,Academic calendar request,Low
+S1534,Library access issue,Medium
+S1535,Hall ticket not generated before exam,High
+S1536,Exam result not published,High
+S1537,Scholarship not credited,High
+S1538,Missed exam due to medical emergency,High
+S1539,Bonafide certificate request,Medium
+S1540,Event information query,Low
+S1541,Hall ticket not generated before exam,High
+S1542,Website navigation help,Low
+S1543,Event information query,Low
+S1544,Hostel accommodation query,Medium
+S1545,Internship letter request,Medium
+S1546,Hall ticket not generated before exam,High
+S1547,Bonafide certificate request,Medium
+S1548,Scholarship not credited,High
+S1549,Library timings inquiry,Low
+S1550,Bonafide certificate request,Medium
+S1551,Elective subject change request,Medium
+S1552,Missed exam due to medical emergency,High
+S1553,Hall ticket not generated before exam,High
+S1554,Library access issue,Medium
+S1555,Campus map request,Low
+S1556,Library timings inquiry,Low
+S1557,Exam result not published,High
+S1558,Library timings inquiry,Low
+S1559,Scholarship not credited,High
+S1560,Fee payment issue before deadline,High
+S1561,Event information query,Low
+S1562,Internship letter request,Medium
+S1563,Event information query,Low
+S1564,Exam result not published,High
+S1565,Website navigation help,Low
+S1566,Internship letter request,Medium
+S1567,Elective subject change request,Medium
+S1568,Elective subject change request,Medium
+S1569,Campus map request,Low
+S1570,Internship letter request,Medium
+S1571,Website navigation help,Low
+S1572,Academic calendar request,Low
+S1573,Scholarship not credited,High
+S1574,Campus map request,Low
+S1575,Hostel accommodation query,Medium
+S1576,Hostel accommodation query,Medium
+S1577,Academic calendar request,Low
+S1578,Missed exam due to medical emergency,High
+S1579,Website navigation help,Low
+S1580,Library timings inquiry,Low
+S1581,Academic calendar request,Low
+S1582,Hostel accommodation query,Medium
+S1583,Hostel accommodation query,Medium
+S1584,Internship letter request,Medium
+S1585,Library timings inquiry,Low
+S1586,Fee payment issue before deadline,High
+S1587,Academic calendar request,Low
+S1588,Event information query,Low
+S1589,Hall ticket not generated before exam,High
+S1590,Internship letter request,Medium
+S1591,Library access issue,Medium
+S1592,Library access issue,Medium
+S1593,Library timings inquiry,Low
+S1594,Bonafide certificate request,Medium
+S1595,Website navigation help,Low
+S1596,Missed exam due to medical emergency,High
+S1597,Campus map request,Low
+S1598,Library access issue,Medium
+S1599,Website navigation help,Low
+S1600,Scholarship not credited,High
+S1601,Campus map request,Low
+S1602,Library access issue,Medium
+S1603,Scholarship not credited,High
+S1604,Fee payment issue before deadline,High
+S1605,Missed exam due to medical emergency,High
+S1606,Academic calendar request,Low
+S1607,Academic calendar request,Low
+S1608,Academic calendar request,Low
+S1609,Scholarship not credited,High
+S1610,Library timings inquiry,Low
+S1611,Internship letter request,Medium
+S1612,Campus map request,Low
+S1613,Internship letter request,Medium
+S1614,Hall ticket not generated before exam,High
+S1615,Fee payment issue before deadline,High
+S1616,Library timings inquiry,Low
+S1617,Event information query,Low
+S1618,Hostel accommodation query,Medium
+S1619,Internship letter request,Medium
+S1620,Elective subject change request,Medium
+S1621,Elective subject change request,Medium
+S1622,Library access issue,Medium
+S1623,Hostel accommodation query,Medium
+S1624,Library access issue,Medium
+S1625,Academic calendar request,Low
+S1626,Library access issue,Medium
+S1627,Bonafide certificate request,Medium
+S1628,Hall ticket not generated before exam,High
+S1629,Library timings inquiry,Low
+S1630,Website navigation help,Low
+S1631,Library access issue,Medium
+S1632,Academic calendar request,Low
+S1633,Library timings inquiry,Low
+S1634,Scholarship not credited,High
+S1635,Library access issue,Medium
+S1636,Exam result not published,High
+S1637,Library timings inquiry,Low
+S1638,Event information query,Low
+S1639,Website navigation help,Low
+S1640,Internship letter request,Medium
+S1641,Bonafide certificate request,Medium
+S1642,Website navigation help,Low
+S1643,Hall ticket not generated before exam,High
+S1644,Elective subject change request,Medium
+S1645,Hall ticket not generated before exam,High
+S1646,Campus map request,Low
+S1647,Campus map request,Low
+S1648,Hostel accommodation query,Medium
+S1649,Hall ticket not generated before exam,High
+S1650,Library access issue,Medium
+S1651,Hostel accommodation query,Medium
+S1652,Hostel accommodation query,Medium
+S1653,Scholarship not credited,High
+S1654,Fee payment issue before deadline,High
+S1655,Exam result not published,High
+S1656,Fee payment issue before deadline,High
+S1657,Missed exam due to medical emergency,High
+S1658,Exam result not published,High
+S1659,Campus map request,Low
+S1660,Elective subject change request,Medium
+S1661,Hall ticket not generated before exam,High
+S1662,Bonafide certificate request,Medium
+S1663,Campus map request,Low
+S1664,Website navigation help,Low
+S1665,Scholarship not credited,High
+S1666,Academic calendar request,Low
+S1667,Missed exam due to medical emergency,High
+S1668,Missed exam due to medical emergency,High
+S1669,Bonafide certificate request,Medium
+S1670,Hostel accommodation query,Medium
+S1671,Library access issue,Medium
+S1672,Fee payment issue before deadline,High
+S1673,Bonafide certificate request,Medium
+S1674,Missed exam due to medical emergency,High
+S1675,Missed exam due to medical emergency,High
+S1676,Bonafide certificate request,Medium
+S1677,Internship letter request,Medium
+S1678,Exam result not published,High
+S1679,Library timings inquiry,Low
+S1680,Missed exam due to medical emergency,High
+S1681,Scholarship not credited,High
+S1682,Fee payment issue before deadline,High
+S1683,Library timings inquiry,Low
+S1684,Missed exam due to medical emergency,High
+S1685,Website navigation help,Low
+S1686,Exam result not published,High
+S1687,Elective subject change request,Medium
+S1688,Event information query,Low
+S1689,Library timings inquiry,Low
+S1690,Library timings inquiry,Low
+S1691,Fee payment issue before deadline,High
+S1692,Campus map request,Low
+S1693,Internship letter request,Medium
+S1694,Website navigation help,Low
+S1695,Missed exam due to medical emergency,High
+S1696,Website navigation help,Low
+S1697,Library timings inquiry,Low
+S1698,Fee payment issue before deadline,High
+S1699,Missed exam due to medical emergency,High
+S1700,Scholarship not credited,High
+S1701,Fee payment issue before deadline,High
+S1702,Exam result not published,High
+S1703,Hostel accommodation query,Medium
+S1704,Academic calendar request,Low
+S1705,Hostel accommodation query,Medium
+S1706,Hostel accommodation query,Medium
+S1707,Library timings inquiry,Low
+S1708,Bonafide certificate request,Medium
+S1709,Academic calendar request,Low
+S1710,Library access issue,Medium
+S1711,Elective subject change request,Medium
+S1712,Library timings inquiry,Low
+S1713,Missed exam due to medical emergency,High
+S1714,Website navigation help,Low
+S1715,Hostel accommodation query,Medium
+S1716,Academic calendar request,Low
+S1717,Library timings inquiry,Low
+S1718,Internship letter request,Medium
+S1719,Missed exam due to medical emergency,High
+S1720,Academic calendar request,Low
+S1721,Event information query,Low
+S1722,Library timings inquiry,Low
+S1723,Internship letter request,Medium
+S1724,Library timings inquiry,Low
+S1725,Hostel accommodation query,Medium
+S1726,Hall ticket not generated before exam,High
+S1727,Missed exam due to medical emergency,High
+S1728,Event information query,Low
+S1729,Fee payment issue before deadline,High
+S1730,Internship letter request,Medium
+S1731,Academic calendar request,Low
+S1732,Website navigation help,Low
+S1733,Fee payment issue before deadline,High
+S1734,Website navigation help,Low
+S1735,Campus map request,Low
+S1736,Elective subject change request,Medium
+S1737,Missed exam due to medical emergency,High
+S1738,Exam result not published,High
+S1739,Library access issue,Medium
+S1740,Hall ticket not generated before exam,High
+S1741,Scholarship not credited,High
+S1742,Campus map request,Low
+S1743,Campus map request,Low
+S1744,Campus map request,Low
+S1745,Website navigation help,Low
+S1746,Hostel accommodation query,Medium
+S1747,Library access issue,Medium
+S1748,Library access issue,Medium
+S1749,Library timings inquiry,Low
+S1750,Bonafide certificate request,Medium
+S1751,Hostel accommodation query,Medium
+S1752,Website navigation help,Low
+S1753,Library access issue,Medium
+S1754,Scholarship not credited,High
+S1755,Exam result not published,High
+S1756,Scholarship not credited,High
+S1757,Fee payment issue before deadline,High
+S1758,Website navigation help,Low
+S1759,Library timings inquiry,Low
+S1760,Bonafide certificate request,Medium
+S1761,Elective subject change request,Medium
+S1762,Library timings inquiry,Low
+S1763,Exam result not published,High
+S1764,Event information query,Low
+S1765,Event information query,Low
+S1766,Library timings inquiry,Low
+S1767,Event information query,Low
+S1768,Library access issue,Medium
+S1769,Scholarship not credited,High
+S1770,Library timings inquiry,Low
+S1771,Bonafide certificate request,Medium
+S1772,Elective subject change request,Medium
+S1773,Event information query,Low
+S1774,Library access issue,Medium
+S1775,Library access issue,Medium
+S1776,Missed exam due to medical emergency,High
+S1777,Scholarship not credited,High
+S1778,Scholarship not credited,High
+S1779,Exam result not published,High
+S1780,Fee payment issue before deadline,High
+S1781,Fee payment issue before deadline,High
+S1782,Event information query,Low
+S1783,Event information query,Low
+S1784,Hall ticket not generated before exam,High
+S1785,Library timings inquiry,Low
+S1786,Library access issue,Medium
+S1787,Missed exam due to medical emergency,High
+S1788,Missed exam due to medical emergency,High
+S1789,Academic calendar request,Low
+S1790,Elective subject change request,Medium
+S1791,Hall ticket not generated before exam,High
+S1792,Hall ticket not generated before exam,High
+S1793,Website navigation help,Low
+S1794,Missed exam due to medical emergency,High
+S1795,Library access issue,Medium
+S1796,Hall ticket not generated before exam,High
+S1797,Library access issue,Medium
+S1798,Event information query,Low
+S1799,Library timings inquiry,Low
+S1800,Exam result not published,High
+S1801,Library access issue,Medium
+S1802,Event information query,Low
+S1803,Scholarship not credited,High
+S1804,Hostel accommodation query,Medium
+S1805,Internship letter request,Medium
+S1806,Internship letter request,Medium
+S1807,Scholarship not credited,High
+S1808,Hall ticket not generated before exam,High
+S1809,Missed exam due to medical emergency,High
+S1810,Scholarship not credited,High
+S1811,Exam result not published,High
+S1812,Scholarship not credited,High
+S1813,Campus map request,Low
+S1814,Campus map request,Low
+S1815,Fee payment issue before deadline,High
+S1816,Academic calendar request,Low
+S1817,Fee payment issue before deadline,High
+S1818,Library access issue,Medium
+S1819,Event information query,Low
+S1820,Campus map request,Low
+S1821,Website navigation help,Low
+S1822,Hall ticket not generated before exam,High
+S1823,Scholarship not credited,High
+S1824,Library timings inquiry,Low
+S1825,Campus map request,Low
+S1826,Elective subject change request,Medium
+S1827,Bonafide certificate request,Medium
+S1828,Exam result not published,High
+S1829,Library access issue,Medium
+S1830,Fee payment issue before deadline,High
+S1831,Campus map request,Low
+S1832,Campus map request,Low
+S1833,Elective subject change request,Medium
+S1834,Hostel accommodation query,Medium
+S1835,Website navigation help,Low
+S1836,Hostel accommodation query,Medium
+S1837,Hall ticket not generated before exam,High
+S1838,Scholarship not credited,High
+S1839,Scholarship not credited,High
+S1840,Missed exam due to medical emergency,High
+S1841,Fee payment issue before deadline,High
+S1842,Scholarship not credited,High
+S1843,Elective subject change request,Medium
+S1844,Hall ticket not generated before exam,High
+S1845,Exam result not published,High
+S1846,Campus map request,Low
+S1847,Missed exam due to medical emergency,High
+S1848,Internship letter request,Medium
+S1849,Hostel accommodation query,Medium
+S1850,Scholarship not credited,High
+S1851,Library timings inquiry,Low
+S1852,Internship letter request,Medium
+S1853,Library access issue,Medium
+S1854,Exam result not published,High
+S1855,Fee payment issue before deadline,High
+S1856,Fee payment issue before deadline,High
+S1857,Missed exam due to medical emergency,High
+S1858,Hall ticket not generated before exam,High
+S1859,Fee payment issue before deadline,High
+S1860,Missed exam due to medical emergency,High
+S1861,Library access issue,Medium
+S1862,Library timings inquiry,Low
+S1863,Library timings inquiry,Low
+S1864,Missed exam due to medical emergency,High
+S1865,Fee payment issue before deadline,High
+S1866,Hostel accommodation query,Medium
+S1867,Library timings inquiry,Low
+S1868,Exam result not published,High
+S1869,Exam result not published,High
+S1870,Hostel accommodation query,Medium
+S1871,Campus map request,Low
+S1872,Campus map request,Low
+S1873,Event information query,Low
+S1874,Fee payment issue before deadline,High
+S1875,Campus map request,Low
+S1876,Library timings inquiry,Low
+S1877,Scholarship not credited,High
+S1878,Event information query,Low
+S1879,Missed exam due to medical emergency,High
+S1880,Scholarship not credited,High
+S1881,Hall ticket not generated before exam,High
+S1882,Missed exam due to medical emergency,High
+S1883,Internship letter request,Medium
+S1884,Campus map request,Low
+S1885,Website navigation help,Low
+S1886,Exam result not published,High
+S1887,Library access issue,Medium
+S1888,Campus map request,Low
+S1889,Website navigation help,Low
+S1890,Elective subject change request,Medium
+S1891,Academic calendar request,Low
+S1892,Academic calendar request,Low
+S1893,Internship letter request,Medium
+S1894,Scholarship not credited,High
+S1895,Missed exam due to medical emergency,High
+S1896,Missed exam due to medical emergency,High
+S1897,Event information query,Low
+S1898,Hall ticket not generated before exam,High
+S1899,Internship letter request,Medium
+S1900,Library timings inquiry,Low
+S1901,Elective subject change request,Medium
+S1902,Missed exam due to medical emergency,High
+S1903,Internship letter request,Medium
+S1904,Missed exam due to medical emergency,High
+S1905,Website navigation help,Low
+S1906,Website navigation help,Low
+S1907,Fee payment issue before deadline,High
+S1908,Library timings inquiry,Low
+S1909,Hall ticket not generated before exam,High
+S1910,Scholarship not credited,High
+S1911,Academic calendar request,Low
+S1912,Website navigation help,Low
+S1913,Library timings inquiry,Low
+S1914,Hall ticket not generated before exam,High
+S1915,Scholarship not credited,High
+S1916,Campus map request,Low
+S1917,Library access issue,Medium
+S1918,Library timings inquiry,Low
+S1919,Hostel accommodation query,Medium
+S1920,Campus map request,Low
+S1921,Event information query,Low
+S1922,Scholarship not credited,High
+S1923,Website navigation help,Low
+S1924,Fee payment issue before deadline,High
+S1925,Exam result not published,High
+S1926,Library access issue,Medium
+S1927,Academic calendar request,Low
+S1928,Academic calendar request,Low
+S1929,Fee payment issue before deadline,High
+S1930,Scholarship not credited,High
+S1931,Exam result not published,High
+S1932,Website navigation help,Low
+S1933,Internship letter request,Medium
+S1934,Academic calendar request,Low
+S1935,Exam result not published,High
+S1936,Library access issue,Medium
+S1937,Event information query,Low
+S1938,Elective subject change request,Medium
+S1939,Elective subject change request,Medium
+S1940,Scholarship not credited,High
+S1941,Website navigation help,Low
+S1942,Bonafide certificate request,Medium
+S1943,Hostel accommodation query,Medium
+S1944,Internship letter request,Medium
+S1945,Library access issue,Medium
+S1946,Academic calendar request,Low
+S1947,Library timings inquiry,Low
+S1948,Scholarship not credited,High
+S1949,Elective subject change request,Medium
+S1950,Scholarship not credited,High
+S1951,Fee payment issue before deadline,High
+S1952,Hostel accommodation query,Medium
+S1953,Missed exam due to medical emergency,High
+S1954,Bonafide certificate request,Medium
+S1955,Library timings inquiry,Low
+S1956,Hostel accommodation query,Medium
+S1957,Campus map request,Low
+S1958,Library access issue,Medium
+S1959,Exam result not published,High
+S1960,Fee payment issue before deadline,High
+S1961,Website navigation help,Low
+S1962,Library access issue,Medium
+S1963,Library access issue,Medium
+S1964,Internship letter request,Medium
+S1965,Elective subject change request,Medium
+S1966,Event information query,Low
+S1967,Elective subject change request,Medium
+S1968,Exam result not published,High
+S1969,Academic calendar request,Low
+S1970,Bonafide certificate request,Medium
+S1971,Hostel accommodation query,Medium
+S1972,Exam result not published,High
+S1973,Website navigation help,Low
+S1974,Missed exam due to medical emergency,High
+S1975,Hall ticket not generated before exam,High
+S1976,Scholarship not credited,High
+S1977,Exam result not published,High
+S1978,Fee payment issue before deadline,High
+S1979,Academic calendar request,Low
+S1980,Fee payment issue before deadline,High
+S1981,Hall ticket not generated before exam,High
+S1982,Scholarship not credited,High
+S1983,Website navigation help,Low
+S1984,Bonafide certificate request,Medium
+S1985,Event information query,Low
+S1986,Website navigation help,Low
+S1987,Event information query,Low
+S1988,Library timings inquiry,Low
+S1989,Bonafide certificate request,Medium
+S1990,Website navigation help,Low
+S1991,Hall ticket not generated before exam,High
+S1992,Library access issue,Medium
+S1993,Hostel accommodation query,Medium
+S1994,Library access issue,Medium
+S1995,Scholarship not credited,High
+S1996,Exam result not published,High
+S1997,Hall ticket not generated before exam,High
+S1998,Missed exam due to medical emergency,High
+S1999,Event information query,Low
+S2000,Hostel accommodation query,Medium
+S2001,Academic calendar request,Low
+S2002,Scholarship not credited,High
+S2003,Internship letter request,Medium
+S2004,Scholarship not credited,High
+S2005,Scholarship not credited,High
+S2006,Scholarship not credited,High
+S2007,Bonafide certificate request,Medium
+S2008,Library access issue,Medium
+S2009,Website navigation help,Low
+S2010,Academic calendar request,Low
+S2011,Scholarship not credited,High
+S2012,Fee payment issue before deadline,High
+S2013,Library timings inquiry,Low
+S2014,Library access issue,Medium
+S2015,Hostel accommodation query,Medium
+S2016,Exam result not published,High
+S2017,Elective subject change request,Medium
+S2018,Bonafide certificate request,Medium
+S2019,Library access issue,Medium
+S2020,Library access issue,Medium
+S2021,Campus map request,Low
+S2022,Bonafide certificate request,Medium
+S2023,Academic calendar request,Low
+S2024,Hall ticket not generated before exam,High
+S2025,Fee payment issue before deadline,High
+S2026,Elective subject change request,Medium
+S2027,Exam result not published,High
+S2028,Scholarship not credited,High
+S2029,Website navigation help,Low
+S2030,Hall ticket not generated before exam,High
+S2031,Hall ticket not generated before exam,High
+S2032,Event information query,Low
+S2033,Hostel accommodation query,Medium
+S2034,Library timings inquiry,Low
+S2035,Library access issue,Medium
+S2036,Event information query,Low
+S2037,Bonafide certificate request,Medium
+S2038,Missed exam due to medical emergency,High
+S2039,Hostel accommodation query,Medium
+S2040,Hall ticket not generated before exam,High
+S2041,Internship letter request,Medium
+S2042,Elective subject change request,Medium
+S2043,Elective subject change request,Medium
+S2044,Hall ticket not generated before exam,High
+S2045,Academic calendar request,Low
+S2046,Hall ticket not generated before exam,High
+S2047,Scholarship not credited,High
+S2048,Exam result not published,High
+S2049,Exam result not published,High
+S2050,Elective subject change request,Medium
+S2051,Website navigation help,Low
+S2052,Website navigation help,Low
+S2053,Missed exam due to medical emergency,High
+S2054,Hostel accommodation query,Medium
+S2055,Exam result not published,High
+S2056,Hall ticket not generated before exam,High
+S2057,Hostel accommodation query,Medium
+S2058,Website navigation help,Low
+S2059,Library access issue,Medium
+S2060,Hall ticket not generated before exam,High
+S2061,Missed exam due to medical emergency,High
+S2062,Library access issue,Medium
+S2063,Website navigation help,Low
+S2064,Hall ticket not generated before exam,High
+S2065,Library access issue,Medium
+S2066,Scholarship not credited,High
+S2067,Internship letter request,Medium
+S2068,Bonafide certificate request,Medium
+S2069,Missed exam due to medical emergency,High
+S2070,Elective subject change request,Medium
+S2071,Missed exam due to medical emergency,High
+S2072,Library access issue,Medium
+S2073,Event information query,Low
+S2074,Academic calendar request,Low
+S2075,Library access issue,Medium
+S2076,Internship letter request,Medium
+S2077,Hall ticket not generated before exam,High
+S2078,Hostel accommodation query,Medium
+S2079,Library access issue,Medium
+S2080,Campus map request,Low
+S2081,Fee payment issue before deadline,High
+S2082,Scholarship not credited,High
+S2083,Academic calendar request,Low
+S2084,Exam result not published,High
+S2085,Elective subject change request,Medium
+S2086,Library timings inquiry,Low
+S2087,Fee payment issue before deadline,High
+S2088,Website navigation help,Low
+S2089,Hostel accommodation query,Medium
+S2090,Hall ticket not generated before exam,High
+S2091,Exam result not published,High
+S2092,Campus map request,Low
+S2093,Exam result not published,High
+S2094,Hostel accommodation query,Medium
+S2095,Fee payment issue before deadline,High
+S2096,Hostel accommodation query,Medium
+S2097,Bonafide certificate request,Medium
+S2098,Bonafide certificate request,Medium
+S2099,Campus map request,Low
+S2100,Event information query,Low
+S2101,Hostel accommodation query,Medium
+S2102,Internship letter request,Medium
+S2103,Library timings inquiry,Low
+S2104,Campus map request,Low
+S2105,Hall ticket not generated before exam,High
+S2106,Bonafide certificate request,Medium
+S2107,Library timings inquiry,Low
+S2108,Academic calendar request,Low
+S2109,Internship letter request,Medium
+S2110,Library access issue,Medium
+S2111,Elective subject change request,Medium
+S2112,Hall ticket not generated before exam,High
+S2113,Bonafide certificate request,Medium
+S2114,Website navigation help,Low
+S2115,Internship letter request,Medium
+S2116,Exam result not published,High
+S2117,Hostel accommodation query,Medium
+S2118,Fee payment issue before deadline,High
+S2119,Exam result not published,High
+S2120,Library access issue,Medium
+S2121,Scholarship not credited,High
+S2122,Website navigation help,Low
+S2123,Website navigation help,Low
+S2124,Hostel accommodation query,Medium
+S2125,Hostel accommodation query,Medium
+S2126,Scholarship not credited,High
+S2127,Campus map request,Low
+S2128,Hostel accommodation query,Medium
+S2129,Event information query,Low
+S2130,Exam result not published,High
+S2131,Event information query,Low
+S2132,Campus map request,Low
+S2133,Hall ticket not generated before exam,High
+S2134,Campus map request,Low
+S2135,Elective subject change request,Medium
+S2136,Academic calendar request,Low
+S2137,Hostel accommodation query,Medium
+S2138,Library timings inquiry,Low
+S2139,Academic calendar request,Low
+S2140,Hall ticket not generated before exam,High
+S2141,Website navigation help,Low
+S2142,Hostel accommodation query,Medium
+S2143,Missed exam due to medical emergency,High
+S2144,Scholarship not credited,High
+S2145,Website navigation help,Low
+S2146,Missed exam due to medical emergency,High
+S2147,Hostel accommodation query,Medium
+S2148,Scholarship not credited,High
+S2149,Library access issue,Medium
+S2150,Internship letter request,Medium
+S2151,Elective subject change request,Medium
+S2152,Missed exam due to medical emergency,High
+S2153,Bonafide certificate request,Medium
+S2154,Campus map request,Low
+S2155,Elective subject change request,Medium
+S2156,Bonafide certificate request,Medium
+S2157,Elective subject change request,Medium
+S2158,Internship letter request,Medium
+S2159,Library timings inquiry,Low
+S2160,Website navigation help,Low
+S2161,Hostel accommodation query,Medium
+S2162,Hall ticket not generated before exam,High
+S2163,Internship letter request,Medium
+S2164,Scholarship not credited,High
+S2165,Elective subject change request,Medium
+S2166,Academic calendar request,Low
+S2167,Fee payment issue before deadline,High
+S2168,Elective subject change request,Medium
+S2169,Library access issue,Medium
+S2170,Hostel accommodation query,Medium
+S2171,Event information query,Low
+S2172,Event information query,Low
+S2173,Scholarship not credited,High
+S2174,Website navigation help,Low
+S2175,Event information query,Low
+S2176,Website navigation help,Low
+S2177,Library access issue,Medium
+S2178,Campus map request,Low
+S2179,Academic calendar request,Low
+S2180,Library access issue,Medium
+S2181,Scholarship not credited,High
+S2182,Campus map request,Low
+S2183,Event information query,Low
+S2184,Academic calendar request,Low
+S2185,Elective subject change request,Medium
+S2186,Exam result not published,High
+S2187,Library access issue,Medium
+S2188,Bonafide certificate request,Medium
+S2189,Library access issue,Medium
+S2190,Library timings inquiry,Low
+S2191,Campus map request,Low
+S2192,Campus map request,Low
+S2193,Internship letter request,Medium
+S2194,Event information query,Low
+S2195,Hall ticket not generated before exam,High
+S2196,Library access issue,Medium
+S2197,Exam result not published,High
+S2198,Scholarship not credited,High
+S2199,Elective subject change request,Medium
+S2200,Hostel accommodation query,Medium
+S2201,Exam result not published,High
+S2202,Elective subject change request,Medium
+S2203,Scholarship not credited,High
+S2204,Campus map request,Low
+S2205,Exam result not published,High
+S2206,Bonafide certificate request,Medium
+S2207,Hall ticket not generated before exam,High
+S2208,Elective subject change request,Medium
+S2209,Academic calendar request,Low
+S2210,Hostel accommodation query,Medium
+S2211,Website navigation help,Low
+S2212,Campus map request,Low
+S2213,Library access issue,Medium
+S2214,Website navigation help,Low
+S2215,Event information query,Low
+S2216,Library timings inquiry,Low
+S2217,Exam result not published,High
+S2218,Hall ticket not generated before exam,High
+S2219,Scholarship not credited,High
+S2220,Event information query,Low
+S2221,Scholarship not credited,High
+S2222,Hostel accommodation query,Medium
+S2223,Website navigation help,Low
+S2224,Exam result not published,High
+S2225,Scholarship not credited,High
+S2226,Hostel accommodation query,Medium
+S2227,Internship letter request,Medium
+S2228,Missed exam due to medical emergency,High
+S2229,Academic calendar request,Low
+S2230,Elective subject change request,Medium
+S2231,Fee payment issue before deadline,High
+S2232,Library timings inquiry,Low
+S2233,Scholarship not credited,High
+S2234,Exam result not published,High
+S2235,Elective subject change request,Medium
+S2236,Event information query,Low
+S2237,Hostel accommodation query,Medium
+S2238,Exam result not published,High
+S2239,Fee payment issue before deadline,High
+S2240,Bonafide certificate request,Medium
+S2241,Library access issue,Medium
+S2242,Fee payment issue before deadline,High
+S2243,Website navigation help,Low
+S2244,Event information query,Low
+S2245,Library access issue,Medium
+S2246,Academic calendar request,Low
+S2247,Hostel accommodation query,Medium
+S2248,Academic calendar request,Low
+S2249,Library timings inquiry,Low
+S2250,Internship letter request,Medium
+S2251,Missed exam due to medical emergency,High
+S2252,Event information query,Low
+S2253,Exam result not published,High
+S2254,Missed exam due to medical emergency,High
+S2255,Hall ticket not generated before exam,High
+S2256,Fee payment issue before deadline,High
+S2257,Hostel accommodation query,Medium
+S2258,Scholarship not credited,High
+S2259,Exam result not published,High
+S2260,Hostel accommodation query,Medium
+S2261,Exam result not published,High
+S2262,Bonafide certificate request,Medium
+S2263,Library timings inquiry,Low
+S2264,Website navigation help,Low
+S2265,Hall ticket not generated before exam,High
+S2266,Library timings inquiry,Low
+S2267,Scholarship not credited,High
+S2268,Exam result not published,High
+S2269,Hostel accommodation query,Medium
+S2270,Missed exam due to medical emergency,High
+S2271,Library access issue,Medium
+S2272,Internship letter request,Medium
+S2273,Library access issue,Medium
+S2274,Event information query,Low
+S2275,Academic calendar request,Low
+S2276,Scholarship not credited,High
+S2277,Hall ticket not generated before exam,High
+S2278,Academic calendar request,Low
+S2279,Library timings inquiry,Low
+S2280,Fee payment issue before deadline,High
+S2281,Missed exam due to medical emergency,High
+S2282,Website navigation help,Low
+S2283,Scholarship not credited,High
+S2284,Bonafide certificate request,Medium
+S2285,Hall ticket not generated before exam,High
+S2286,Event information query,Low
+S2287,Campus map request,Low
+S2288,Exam result not published,High
+S2289,Exam result not published,High
+S2290,Library access issue,Medium
+S2291,Bonafide certificate request,Medium
+S2292,Library timings inquiry,Low
+S2293,Scholarship not credited,High
+S2294,Campus map request,Low
+S2295,Hall ticket not generated before exam,High
+S2296,Elective subject change request,Medium
+S2297,Campus map request,Low
+S2298,Campus map request,Low
+S2299,Campus map request,Low
+S2300,Exam result not published,High
+S2301,Internship letter request,Medium
+S2302,Website navigation help,Low
+S2303,Elective subject change request,Medium
+S2304,Elective subject change request,Medium
+S2305,Internship letter request,Medium
+S2306,Scholarship not credited,High
+S2307,Library timings inquiry,Low
+S2308,Bonafide certificate request,Medium
+S2309,Hall ticket not generated before exam,High
+S2310,Internship letter request,Medium
+S2311,Library timings inquiry,Low
+S2312,Hostel accommodation query,Medium
+S2313,Hostel accommodation query,Medium
+S2314,Missed exam due to medical emergency,High
+S2315,Event information query,Low
+S2316,Campus map request,Low
+S2317,Exam result not published,High
+S2318,Scholarship not credited,High
+S2319,Fee payment issue before deadline,High
+S2320,Website navigation help,Low
+S2321,Library timings inquiry,Low
+S2322,Missed exam due to medical emergency,High
+S2323,Hall ticket not generated before exam,High
+S2324,Fee payment issue before deadline,High
+S2325,Library timings inquiry,Low
+S2326,Scholarship not credited,High
+S2327,Missed exam due to medical emergency,High
+S2328,Missed exam due to medical emergency,High
+S2329,Elective subject change request,Medium
+S2330,Missed exam due to medical emergency,High
+S2331,Event information query,Low
+S2332,Website navigation help,Low
+S2333,Internship letter request,Medium
+S2334,Academic calendar request,Low
+S2335,Bonafide certificate request,Medium
+S2336,Academic calendar request,Low
+S2337,Hall ticket not generated before exam,High
+S2338,Hall ticket not generated before exam,High
+S2339,Fee payment issue before deadline,High
+S2340,Hall ticket not generated before exam,High
+S2341,Website navigation help,Low
+S2342,Exam result not published,High
+S2343,Event information query,Low
+S2344,Bonafide certificate request,Medium
+S2345,Academic calendar request,Low
+S2346,Scholarship not credited,High
+S2347,Library access issue,Medium
+S2348,Scholarship not credited,High
+S2349,Hostel accommodation query,Medium
+S2350,Missed exam due to medical emergency,High
+S2351,Website navigation help,Low
+S2352,Event information query,Low
+S2353,Exam result not published,High
+S2354,Hostel accommodation query,Medium
+S2355,Exam result not published,High
+S2356,Hostel accommodation query,Medium
+S2357,Missed exam due to medical emergency,High
+S2358,Bonafide certificate request,Medium
+S2359,Exam result not published,High
+S2360,Academic calendar request,Low
+S2361,Scholarship not credited,High
+S2362,Scholarship not credited,High
+S2363,Library timings inquiry,Low
+S2364,Elective subject change request,Medium
+S2365,Exam result not published,High
+S2366,Event information query,Low
+S2367,Fee payment issue before deadline,High
+S2368,Library access issue,Medium
+S2369,Website navigation help,Low
+S2370,Internship letter request,Medium
+S2371,Fee payment issue before deadline,High
+S2372,Exam result not published,High
+S2373,Hall ticket not generated before exam,High
+S2374,Fee payment issue before deadline,High
+S2375,Academic calendar request,Low
+S2376,Library timings inquiry,Low
+S2377,Internship letter request,Medium
+S2378,Hall ticket not generated before exam,High
+S2379,Event information query,Low
+S2380,Bonafide certificate request,Medium
+S2381,Website navigation help,Low
+S2382,Missed exam due to medical emergency,High
+S2383,Library access issue,Medium
+S2384,Hall ticket not generated before exam,High
+S2385,Event information query,Low
+S2386,Exam result not published,High
+S2387,Library access issue,Medium
+S2388,Website navigation help,Low
+S2389,Internship letter request,Medium
+S2390,Library timings inquiry,Low
+S2391,Scholarship not credited,High
+S2392,Campus map request,Low
+S2393,Library timings inquiry,Low
+S2394,Hall ticket not generated before exam,High
+S2395,Elective subject change request,Medium
+S2396,Bonafide certificate request,Medium
+S2397,Internship letter request,Medium
+S2398,Exam result not published,High
+S2399,Bonafide certificate request,Medium
+S2400,Exam result not published,High
+S2401,Internship letter request,Medium
+S2402,Hall ticket not generated before exam,High
+S2403,Missed exam due to medical emergency,High
+S2404,Exam result not published,High
+S2405,Website navigation help,Low
+S2406,Bonafide certificate request,Medium
+S2407,Library timings inquiry,Low
+S2408,Missed exam due to medical emergency,High
+S2409,Elective subject change request,Medium
+S2410,Fee payment issue before deadline,High
+S2411,Library access issue,Medium
+S2412,Hall ticket not generated before exam,High
+S2413,Hall ticket not generated before exam,High
+S2414,Internship letter request,Medium
+S2415,Missed exam due to medical emergency,High
+S2416,Fee payment issue before deadline,High
+S2417,Academic calendar request,Low
+S2418,Campus map request,Low
+S2419,Bonafide certificate request,Medium
+S2420,Campus map request,Low
+S2421,Event information query,Low
+S2422,Internship letter request,Medium
+S2423,Internship letter request,Medium
+S2424,Internship letter request,Medium
+S2425,Scholarship not credited,High
+S2426,Scholarship not credited,High
+S2427,Internship letter request,Medium
+S2428,Fee payment issue before deadline,High
+S2429,Hostel accommodation query,Medium
+S2430,Library access issue,Medium
+S2431,Campus map request,Low
+S2432,Internship letter request,Medium
+S2433,Academic calendar request,Low
+S2434,Elective subject change request,Medium
+S2435,Internship letter request,Medium
+S2436,Event information query,Low
+S2437,Internship letter request,Medium
+S2438,Hall ticket not generated before exam,High
+S2439,Library timings inquiry,Low
+S2440,Internship letter request,Medium
+S2441,Library timings inquiry,Low
+S2442,Bonafide certificate request,Medium
+S2443,Website navigation help,Low
+S2444,Fee payment issue before deadline,High
+S2445,Library timings inquiry,Low
+S2446,Exam result not published,High
+S2447,Hall ticket not generated before exam,High
+S2448,Bonafide certificate request,Medium
+S2449,Internship letter request,Medium
+S2450,Library access issue,Medium
+S2451,Library timings inquiry,Low
+S2452,Hostel accommodation query,Medium
+S2453,Event information query,Low
+S2454,Academic calendar request,Low
+S2455,Elective subject change request,Medium
+S2456,Event information query,Low
+S2457,Internship letter request,Medium
+S2458,Website navigation help,Low
+S2459,Academic calendar request,Low
+S2460,Internship letter request,Medium
+S2461,Hall ticket not generated before exam,High
+S2462,Exam result not published,High
+S2463,Exam result not published,High
+S2464,Elective subject change request,Medium
+S2465,Hostel accommodation query,Medium
+S2466,Library access issue,Medium
+S2467,Academic calendar request,Low
+S2468,Scholarship not credited,High
+S2469,Missed exam due to medical emergency,High
+S2470,Bonafide certificate request,Medium
+S2471,Library access issue,Medium
+S2472,Academic calendar request,Low
+S2473,Bonafide certificate request,Medium
+S2474,Campus map request,Low
+S2475,Missed exam due to medical emergency,High
+S2476,Library timings inquiry,Low
+S2477,Internship letter request,Medium
+S2478,Campus map request,Low
+S2479,Campus map request,Low
+S2480,Website navigation help,Low
+S2481,Campus map request,Low
+S2482,Bonafide certificate request,Medium
+S2483,Elective subject change request,Medium
+S2484,Exam result not published,High
+S2485,Fee payment issue before deadline,High
+S2486,Library access issue,Medium
+S2487,Elective subject change request,Medium
+S2488,Missed exam due to medical emergency,High
+S2489,Academic calendar request,Low
+S2490,Fee payment issue before deadline,High
+S2491,Campus map request,Low
+S2492,Website navigation help,Low
+S2493,Bonafide certificate request,Medium
+S2494,Hostel accommodation query,Medium
+S2495,Campus map request,Low
+S2496,Internship letter request,Medium
+S2497,Campus map request,Low
+S2498,Fee payment issue before deadline,High
+S2499,Missed exam due to medical emergency,High
+S2500,Campus map request,Low
+S2501,Hall ticket not generated before exam,High
+S2502,Hall ticket not generated before exam,High
+S2503,Campus map request,Low
+S2504,Website navigation help,Low
+S2505,Library timings inquiry,Low
+S2506,Missed exam due to medical emergency,High
+S2507,Event information query,Low
+S2508,Exam result not published,High
+S2509,Elective subject change request,Medium
+S2510,Hall ticket not generated before exam,High
+S2511,Hostel accommodation query,Medium
+S2512,Hall ticket not generated before exam,High
+S2513,Elective subject change request,Medium
+S2514,Campus map request,Low
+S2515,Bonafide certificate request,Medium
+S2516,Library timings inquiry,Low
+S2517,Academic calendar request,Low
+S2518,Elective subject change request,Medium
+S2519,Hall ticket not generated before exam,High
+S2520,Missed exam due to medical emergency,High
+S2521,Bonafide certificate request,Medium
+S2522,Academic calendar request,Low
+S2523,Internship letter request,Medium
+S2524,Event information query,Low
+S2525,Exam result not published,High
+S2526,Event information query,Low
+S2527,Scholarship not credited,High
+S2528,Exam result not published,High
+S2529,Missed exam due to medical emergency,High
+S2530,Hall ticket not generated before exam,High
+S2531,Event information query,Low
+S2532,Missed exam due to medical emergency,High
+S2533,Internship letter request,Medium
+S2534,Library timings inquiry,Low
+S2535,Campus map request,Low
+S2536,Library timings inquiry,Low
+S2537,Missed exam due to medical emergency,High
+S2538,Campus map request,Low
+S2539,Campus map request,Low
+S2540,Fee payment issue before deadline,High
+S2541,Elective subject change request,Medium
+S2542,Website navigation help,Low
+S2543,Missed exam due to medical emergency,High
+S2544,Website navigation help,Low
+S2545,Event information query,Low
+S2546,Library access issue,Medium
+S2547,Website navigation help,Low
+S2548,Bonafide certificate request,Medium
+S2549,Exam result not published,High
+S2550,Campus map request,Low
+S2551,Exam result not published,High
+S2552,Hall ticket not generated before exam,High
+S2553,Elective subject change request,Medium
+S2554,Hostel accommodation query,Medium
+S2555,Academic calendar request,Low
+S2556,Event information query,Low
+S2557,Internship letter request,Medium
+S2558,Campus map request,Low
+S2559,Missed exam due to medical emergency,High
+S2560,Website navigation help,Low
+S2561,Library timings inquiry,Low
+S2562,Elective subject change request,Medium
+S2563,Bonafide certificate request,Medium
+S2564,Fee payment issue before deadline,High
+S2565,Academic calendar request,Low
+S2566,Hostel accommodation query,Medium
+S2567,Elective subject change request,Medium
+S2568,Event information query,Low
+S2569,Internship letter request,Medium
+S2570,Hall ticket not generated before exam,High
+S2571,Missed exam due to medical emergency,High
+S2572,Academic calendar request,Low
+S2573,Campus map request,Low
+S2574,Scholarship not credited,High
+S2575,Academic calendar request,Low
+S2576,Bonafide certificate request,Medium
+S2577,Hall ticket not generated before exam,High
+S2578,Library access issue,Medium
+S2579,Elective subject change request,Medium
+S2580,Hall ticket not generated before exam,High
+S2581,Missed exam due to medical emergency,High
+S2582,Event information query,Low
+S2583,Hall ticket not generated before exam,High
+S2584,Bonafide certificate request,Medium
+S2585,Scholarship not credited,High
+S2586,Missed exam due to medical emergency,High
+S2587,Elective subject change request,Medium
+S2588,Hostel accommodation query,Medium
+S2589,Website navigation help,Low
+S2590,Exam result not published,High
+S2591,Bonafide certificate request,Medium
+S2592,Hall ticket not generated before exam,High
+S2593,Hall ticket not generated before exam,High
+S2594,Library access issue,Medium
+S2595,Event information query,Low
+S2596,Library access issue,Medium
+S2597,Campus map request,Low
+S2598,Scholarship not credited,High
+S2599,Library access issue,Medium
+S2600,Hall ticket not generated before exam,High
+S2601,Website navigation help,Low
+S2602,Missed exam due to medical emergency,High
+S2603,Campus map request,Low
+S2604,Hostel accommodation query,Medium
+S2605,Scholarship not credited,High
+S2606,Fee payment issue before deadline,High
+S2607,Scholarship not credited,High
+S2608,Library timings inquiry,Low
+S2609,Internship letter request,Medium
+S2610,Event information query,Low
+S2611,Event information query,Low
+S2612,Elective subject change request,Medium
+S2613,Missed exam due to medical emergency,High
+S2614,Library timings inquiry,Low
+S2615,Website navigation help,Low
+S2616,Elective subject change request,Medium
+S2617,Bonafide certificate request,Medium
+S2618,Elective subject change request,Medium
+S2619,Fee payment issue before deadline,High
+S2620,Scholarship not credited,High
+S2621,Hall ticket not generated before exam,High
+S2622,Campus map request,Low
+S2623,Website navigation help,Low
+S2624,Elective subject change request,Medium
+S2625,Internship letter request,Medium
+S2626,Event information query,Low
+S2627,Library timings inquiry,Low
+S2628,Library access issue,Medium
+S2629,Internship letter request,Medium
+S2630,Website navigation help,Low
+S2631,Event information query,Low
+S2632,Event information query,Low
+S2633,Library access issue,Medium
+S2634,Missed exam due to medical emergency,High
+S2635,Bonafide certificate request,Medium
+S2636,Missed exam due to medical emergency,High
+S2637,Scholarship not credited,High
+S2638,Fee payment issue before deadline,High
+S2639,Hostel accommodation query,Medium
+S2640,Scholarship not credited,High
+S2641,Bonafide certificate request,Medium
+S2642,Campus map request,Low
+S2643,Scholarship not credited,High
+S2644,Library timings inquiry,Low
+S2645,Library access issue,Medium
+S2646,Hall ticket not generated before exam,High
+S2647,Library timings inquiry,Low
+S2648,Elective subject change request,Medium
+S2649,Event information query,Low
+S2650,Hall ticket not generated before exam,High
+S2651,Library timings inquiry,Low
+S2652,Campus map request,Low
+S2653,Exam result not published,High
+S2654,Internship letter request,Medium
+S2655,Library timings inquiry,Low
+S2656,Fee payment issue before deadline,High
+S2657,Hostel accommodation query,Medium
+S2658,Scholarship not credited,High
+S2659,Campus map request,Low
+S2660,Hostel accommodation query,Medium
+S2661,Library timings inquiry,Low
+S2662,Campus map request,Low
+S2663,Website navigation help,Low
+S2664,Internship letter request,Medium
+S2665,Elective subject change request,Medium
+S2666,Hostel accommodation query,Medium
+S2667,Academic calendar request,Low
+S2668,Campus map request,Low
+S2669,Internship letter request,Medium
+S2670,Website navigation help,Low
+S2671,Hall ticket not generated before exam,High
+S2672,Library access issue,Medium
+S2673,Campus map request,Low
+S2674,Library access issue,Medium
+S2675,Bonafide certificate request,Medium
+S2676,Hall ticket not generated before exam,High
+S2677,Scholarship not credited,High
+S2678,Missed exam due to medical emergency,High
+S2679,Academic calendar request,Low
+S2680,Academic calendar request,Low
+S2681,Missed exam due to medical emergency,High
+S2682,Academic calendar request,Low
+S2683,Library timings inquiry,Low
+S2684,Event information query,Low
+S2685,Exam result not published,High
+S2686,Internship letter request,Medium
+S2687,Library timings inquiry,Low
+S2688,Missed exam due to medical emergency,High
+S2689,Campus map request,Low
+S2690,Elective subject change request,Medium
+S2691,Scholarship not credited,High
+S2692,Internship letter request,Medium
+S2693,Campus map request,Low
+S2694,Website navigation help,Low
+S2695,Campus map request,Low
+S2696,Academic calendar request,Low
+S2697,Library access issue,Medium
+S2698,Hostel accommodation query,Medium
+S2699,Exam result not published,High
+S2700,Hostel accommodation query,Medium
+S2701,Scholarship not credited,High
+S2702,Hostel accommodation query,Medium
+S2703,Academic calendar request,Low
+S2704,Library timings inquiry,Low
+S2705,Scholarship not credited,High
+S2706,Website navigation help,Low
+S2707,Campus map request,Low
+S2708,Fee payment issue before deadline,High
+S2709,Exam result not published,High
+S2710,Bonafide certificate request,Medium
+S2711,Elective subject change request,Medium
+S2712,Missed exam due to medical emergency,High
+S2713,Academic calendar request,Low
+S2714,Library access issue,Medium
+S2715,Elective subject change request,Medium
+S2716,Fee payment issue before deadline,High
+S2717,Exam result not published,High
+S2718,Website navigation help,Low
+S2719,Event information query,Low
+S2720,Scholarship not credited,High
+S2721,Scholarship not credited,High
+S2722,Fee payment issue before deadline,High
+S2723,Hall ticket not generated before exam,High
+S2724,Library access issue,Medium
+S2725,Hall ticket not generated before exam,High
+S2726,Event information query,Low
+S2727,Academic calendar request,Low
+S2728,Academic calendar request,Low
+S2729,Scholarship not credited,High
+S2730,Event information query,Low
+S2731,Fee payment issue before deadline,High
+S2732,Event information query,Low
+S2733,Campus map request,Low
+S2734,Exam result not published,High
+S2735,Campus map request,Low
+S2736,Fee payment issue before deadline,High
+S2737,Academic calendar request,Low
+S2738,Website navigation help,Low
+S2739,Missed exam due to medical emergency,High
+S2740,Missed exam due to medical emergency,High
+S2741,Missed exam due to medical emergency,High
+S2742,Event information query,Low
+S2743,Elective subject change request,Medium
+S2744,Hostel accommodation query,Medium
+S2745,Library timings inquiry,Low
+S2746,Library access issue,Medium
+S2747,Bonafide certificate request,Medium
+S2748,Elective subject change request,Medium
+S2749,Missed exam due to medical emergency,High
+S2750,Hostel accommodation query,Medium
+S2751,Website navigation help,Low
+S2752,Missed exam due to medical emergency,High
+S2753,Event information query,Low
+S2754,Bonafide certificate request,Medium
+S2755,Missed exam due to medical emergency,High
+S2756,Internship letter request,Medium
+S2757,Campus map request,Low
+S2758,Missed exam due to medical emergency,High
+S2759,Missed exam due to medical emergency,High
+S2760,Internship letter request,Medium
+S2761,Hall ticket not generated before exam,High
+S2762,Library access issue,Medium
+S2763,Event information query,Low
+S2764,Elective subject change request,Medium
+S2765,Library access issue,Medium
+S2766,Event information query,Low
+S2767,Library timings inquiry,Low
+S2768,Elective subject change request,Medium
+S2769,Internship letter request,Medium
+S2770,Scholarship not credited,High
+S2771,Event information query,Low
+S2772,Internship letter request,Medium
+S2773,Bonafide certificate request,Medium
+S2774,Academic calendar request,Low
+S2775,Elective subject change request,Medium
+S2776,Internship letter request,Medium
+S2777,Fee payment issue before deadline,High
+S2778,Internship letter request,Medium
+S2779,Library access issue,Medium
+S2780,Internship letter request,Medium
+S2781,Website navigation help,Low
+S2782,Elective subject change request,Medium
+S2783,Bonafide certificate request,Medium
+S2784,Campus map request,Low
+S2785,Website navigation help,Low
+S2786,Library access issue,Medium
+S2787,Academic calendar request,Low
+S2788,Academic calendar request,Low
+S2789,Missed exam due to medical emergency,High
+S2790,Library access issue,Medium
+S2791,Campus map request,Low
+S2792,Event information query,Low
+S2793,Missed exam due to medical emergency,High
+S2794,Internship letter request,Medium
+S2795,Website navigation help,Low
+S2796,Internship letter request,Medium
+S2797,Event information query,Low
+S2798,Elective subject change request,Medium
+S2799,Internship letter request,Medium
+S2800,Library timings inquiry,Low
+S2801,Scholarship not credited,High
+S2802,Fee payment issue before deadline,High
+S2803,Website navigation help,Low
+S2804,Scholarship not credited,High
+S2805,Elective subject change request,Medium
+S2806,Exam result not published,High
+S2807,Elective subject change request,Medium
+S2808,Academic calendar request,Low
+S2809,Elective subject change request,Medium
+S2810,Missed exam due to medical emergency,High
+S2811,Hostel accommodation query,Medium
+S2812,Missed exam due to medical emergency,High
+S2813,Bonafide certificate request,Medium
+S2814,Hostel accommodation query,Medium
+S2815,Elective subject change request,Medium
+S2816,Scholarship not credited,High
+S2817,Bonafide certificate request,Medium
+S2818,Hall ticket not generated before exam,High
+S2819,Hostel accommodation query,Medium
+S2820,Website navigation help,Low
+S2821,Internship letter request,Medium
+S2822,Hall ticket not generated before exam,High
+S2823,Elective subject change request,Medium
+S2824,Hostel accommodation query,Medium
+S2825,Academic calendar request,Low
+S2826,Library access issue,Medium
+S2827,Missed exam due to medical emergency,High
+S2828,Website navigation help,Low
+S2829,Elective subject change request,Medium
+S2830,Hostel accommodation query,Medium
+S2831,Internship letter request,Medium
+S2832,Elective subject change request,Medium
+S2833,Campus map request,Low
+S2834,Academic calendar request,Low
+S2835,Hostel accommodation query,Medium
+S2836,Hall ticket not generated before exam,High
+S2837,Library access issue,Medium
+S2838,Library timings inquiry,Low
+S2839,Hostel accommodation query,Medium
+S2840,Library timings inquiry,Low
+S2841,Bonafide certificate request,Medium
+S2842,Elective subject change request,Medium
+S2843,Missed exam due to medical emergency,High
+S2844,Bonafide certificate request,Medium
+S2845,Scholarship not credited,High
+S2846,Scholarship not credited,High
+S2847,Exam result not published,High
+S2848,Library timings inquiry,Low
+S2849,Event information query,Low
+S2850,Bonafide certificate request,Medium
+S2851,Scholarship not credited,High
+S2852,Website navigation help,Low
+S2853,Bonafide certificate request,Medium
+S2854,Hall ticket not generated before exam,High
+S2855,Academic calendar request,Low
+S2856,Internship letter request,Medium
+S2857,Bonafide certificate request,Medium
+S2858,Bonafide certificate request,Medium
+S2859,Website navigation help,Low
+S2860,Campus map request,Low
+S2861,Bonafide certificate request,Medium
+S2862,Event information query,Low
+S2863,Website navigation help,Low
+S2864,Fee payment issue before deadline,High
+S2865,Fee payment issue before deadline,High
+S2866,Elective subject change request,Medium
+S2867,Fee payment issue before deadline,High
+S2868,Library access issue,Medium
+S2869,Elective subject change request,Medium
+S2870,Library timings inquiry,Low
+S2871,Website navigation help,Low
+S2872,Bonafide certificate request,Medium
+S2873,Elective subject change request,Medium
+S2874,Missed exam due to medical emergency,High
+S2875,Event information query,Low
+S2876,Elective subject change request,Medium
+S2877,Internship letter request,Medium
+S2878,Internship letter request,Medium
+S2879,Internship letter request,Medium
+S2880,Hall ticket not generated before exam,High
+S2881,Exam result not published,High
+S2882,Missed exam due to medical emergency,High
+S2883,Missed exam due to medical emergency,High
+S2884,Library access issue,Medium
+S2885,Campus map request,Low
+S2886,Library timings inquiry,Low
+S2887,Missed exam due to medical emergency,High
+S2888,Internship letter request,Medium
+S2889,Scholarship not credited,High
+S2890,Missed exam due to medical emergency,High
+S2891,Academic calendar request,Low
+S2892,Website navigation help,Low
+S2893,Missed exam due to medical emergency,High
+S2894,Website navigation help,Low
+S2895,Website navigation help,Low
+S2896,Fee payment issue before deadline,High
+S2897,Event information query,Low
+S2898,Scholarship not credited,High
+S2899,Academic calendar request,Low
+S2900,Fee payment issue before deadline,High
+S2901,Missed exam due to medical emergency,High
+S2902,Elective subject change request,Medium
+S2903,Hall ticket not generated before exam,High
+S2904,Exam result not published,High
+S2905,Scholarship not credited,High
+S2906,Campus map request,Low
+S2907,Fee payment issue before deadline,High
+S2908,Website navigation help,Low
+S2909,Exam result not published,High
+S2910,Hall ticket not generated before exam,High
+S2911,Library access issue,Medium
+S2912,Academic calendar request,Low
+S2913,Hostel accommodation query,Medium
+S2914,Library timings inquiry,Low
+S2915,Internship letter request,Medium
+S2916,Academic calendar request,Low
+S2917,Exam result not published,High
+S2918,Academic calendar request,Low
+S2919,Library timings inquiry,Low
+S2920,Campus map request,Low
+S2921,Elective subject change request,Medium
+S2922,Hall ticket not generated before exam,High
+S2923,Event information query,Low
+S2924,Library access issue,Medium
+S2925,Library timings inquiry,Low
+S2926,Hall ticket not generated before exam,High
+S2927,Campus map request,Low
+S2928,Hostel accommodation query,Medium
+S2929,Exam result not published,High
+S2930,Hostel accommodation query,Medium
+S2931,Hostel accommodation query,Medium
+S2932,Fee payment issue before deadline,High
+S2933,Scholarship not credited,High
+S2934,Library timings inquiry,Low
+S2935,Campus map request,Low
+S2936,Internship letter request,Medium
+S2937,Missed exam due to medical emergency,High
+S2938,Internship letter request,Medium
+S2939,Bonafide certificate request,Medium
+S2940,Library access issue,Medium
+S2941,Campus map request,Low
+S2942,Library access issue,Medium
+S2943,Hall ticket not generated before exam,High
+S2944,Fee payment issue before deadline,High
+S2945,Fee payment issue before deadline,High
+S2946,Fee payment issue before deadline,High
+S2947,Missed exam due to medical emergency,High
+S2948,Internship letter request,Medium
+S2949,Library timings inquiry,Low
+S2950,Exam result not published,High
+S2951,Missed exam due to medical emergency,High
+S2952,Hall ticket not generated before exam,High
+S2953,Hostel accommodation query,Medium
+S2954,Internship letter request,Medium
+S2955,Scholarship not credited,High
+S2956,Academic calendar request,Low
+S2957,Internship letter request,Medium
+S2958,Library timings inquiry,Low
+S2959,Exam result not published,High
+S2960,Campus map request,Low
+S2961,Bonafide certificate request,Medium
+S2962,Website navigation help,Low
+S2963,Bonafide certificate request,Medium
+S2964,Library timings inquiry,Low
+S2965,Elective subject change request,Medium
+S2966,Event information query,Low
+S2967,Library access issue,Medium
+S2968,Elective subject change request,Medium
+S2969,Elective subject change request,Medium
+S2970,Hall ticket not generated before exam,High
+S2971,Hostel accommodation query,Medium
+S2972,Event information query,Low
+S2973,Hall ticket not generated before exam,High
+S2974,Missed exam due to medical emergency,High
+S2975,Scholarship not credited,High
+S2976,Elective subject change request,Medium
+S2977,Fee payment issue before deadline,High
+S2978,Academic calendar request,Low
+S2979,Hall ticket not generated before exam,High
+S2980,Bonafide certificate request,Medium
+S2981,Event information query,Low
+S2982,Hall ticket not generated before exam,High
+S2983,Library timings inquiry,Low
+S2984,Hall ticket not generated before exam,High
+S2985,Internship letter request,Medium
+S2986,Bonafide certificate request,Medium
+S2987,Hostel accommodation query,Medium
+S2988,Event information query,Low
+S2989,Campus map request,Low
+S2990,Hostel accommodation query,Medium
+S2991,Academic calendar request,Low
+S2992,Library timings inquiry,Low
+S2993,Hostel accommodation query,Medium
+S2994,Campus map request,Low
+S2995,Fee payment issue before deadline,High
+S2996,Hall ticket not generated before exam,High
+S2997,Library timings inquiry,Low
+S2998,Campus map request,Low
+S2999,Bonafide certificate request,Medium
+S3000,Missed exam due to medical emergency,High
+S3001,Fee payment issue before deadline,High
+S3002,Academic calendar request,Low
+S3003,Campus map request,Low
+S3004,Fee payment issue before deadline,High
+S3005,Bonafide certificate request,Medium
+S3006,Fee payment issue before deadline,High
+S3007,Website navigation help,Low
+S3008,Academic calendar request,Low
+S3009,Campus map request,Low
+S3010,Hostel accommodation query,Medium
+S3011,Fee payment issue before deadline,High
+S3012,Exam result not published,High
+S3013,Missed exam due to medical emergency,High
+S3014,Scholarship not credited,High
+S3015,Event information query,Low
+S3016,Elective subject change request,Medium
+S3017,Exam result not published,High
+S3018,Bonafide certificate request,Medium
+S3019,Hall ticket not generated before exam,High
+S3020,Elective subject change request,Medium
+S3021,Hall ticket not generated before exam,High
+S3022,Library timings inquiry,Low
+S3023,Website navigation help,Low
+S3024,Fee payment issue before deadline,High
+S3025,Website navigation help,Low
+S3026,Event information query,Low
+S3027,Academic calendar request,Low
+S3028,Scholarship not credited,High
+S3029,Bonafide certificate request,Medium
+S3030,Academic calendar request,Low
+S3031,Missed exam due to medical emergency,High
+S3032,Event information query,Low
+S3033,Bonafide certificate request,Medium
+S3034,Hostel accommodation query,Medium
+S3035,Hostel accommodation query,Medium
+S3036,Campus map request,Low
+S3037,Hall ticket not generated before exam,High
+S3038,Event information query,Low
+S3039,Internship letter request,Medium
+S3040,Scholarship not credited,High
+S3041,Campus map request,Low
+S3042,Scholarship not credited,High
+S3043,Academic calendar request,Low
+S3044,Library timings inquiry,Low
+S3045,Library access issue,Medium
+S3046,Scholarship not credited,High
+S3047,Bonafide certificate request,Medium
+S3048,Missed exam due to medical emergency,High
+S3049,Fee payment issue before deadline,High
+S3050,Library timings inquiry,Low
+S3051,Campus map request,Low
+S3052,Hostel accommodation query,Medium
+S3053,Elective subject change request,Medium
+S3054,Campus map request,Low
+S3055,Academic calendar request,Low
+S3056,Library access issue,Medium
+S3057,Exam result not published,High
+S3058,Internship letter request,Medium
+S3059,Bonafide certificate request,Medium
+S3060,Hall ticket not generated before exam,High
+S3061,Website navigation help,Low
+S3062,Academic calendar request,Low
+S3063,Exam result not published,High
+S3064,Hostel accommodation query,Medium
+S3065,Library access issue,Medium
+S3066,Bonafide certificate request,Medium
+S3067,Scholarship not credited,High
+S3068,Academic calendar request,Low
+S3069,Fee payment issue before deadline,High
+S3070,Fee payment issue before deadline,High
+S3071,Event information query,Low
+S3072,Scholarship not credited,High
+S3073,Internship letter request,Medium
+S3074,Academic calendar request,Low
+S3075,Fee payment issue before deadline,High
+S3076,Event information query,Low
+S3077,Website navigation help,Low
+S3078,Exam result not published,High
+S3079,Internship letter request,Medium
+S3080,Missed exam due to medical emergency,High
+S3081,Hostel accommodation query,Medium
+S3082,Hostel accommodation query,Medium
+S3083,Library timings inquiry,Low
+S3084,Internship letter request,Medium
+S3085,Campus map request,Low
+S3086,Internship letter request,Medium
+S3087,Bonafide certificate request,Medium
+S3088,Internship letter request,Medium
+S3089,Hostel accommodation query,Medium
+S3090,Hall ticket not generated before exam,High
+S3091,Library timings inquiry,Low
+S3092,Scholarship not credited,High
+S3093,Library access issue,Medium
+S3094,Hostel accommodation query,Medium
+S3095,Campus map request,Low
+S3096,Fee payment issue before deadline,High
+S3097,Library timings inquiry,Low
+S3098,Hall ticket not generated before exam,High
+S3099,Hall ticket not generated before exam,High
+S3100,Event information query,Low
+S3101,Campus map request,Low
+S3102,Website navigation help,Low
+S3103,Fee payment issue before deadline,High
+S3104,Website navigation help,Low
+S3105,Hall ticket not generated before exam,High
+S3106,Elective subject change request,Medium
+S3107,Elective subject change request,Medium
+S3108,Library access issue,Medium
+S3109,Library access issue,Medium
+S3110,Academic calendar request,Low
+S3111,Campus map request,Low
+S3112,Hall ticket not generated before exam,High
+S3113,Campus map request,Low
+S3114,Academic calendar request,Low
+S3115,Scholarship not credited,High
+S3116,Website navigation help,Low
+S3117,Academic calendar request,Low
+S3118,Event information query,Low
+S3119,Bonafide certificate request,Medium
+S3120,Library access issue,Medium
+S3121,Hall ticket not generated before exam,High
+S3122,Internship letter request,Medium
+S3123,Exam result not published,High
+S3124,Library access issue,Medium
+S3125,Internship letter request,Medium
+S3126,Scholarship not credited,High
+S3127,Fee payment issue before deadline,High
+S3128,Hall ticket not generated before exam,High
+S3129,Campus map request,Low
+S3130,Campus map request,Low
+S3131,Elective subject change request,Medium
+S3132,Internship letter request,Medium
+S3133,Website navigation help,Low
+S3134,Fee payment issue before deadline,High
+S3135,Scholarship not credited,High
+S3136,Fee payment issue before deadline,High
+S3137,Hall ticket not generated before exam,High
+S3138,Library timings inquiry,Low
+S3139,Campus map request,Low
+S3140,Elective subject change request,Medium
+S3141,Campus map request,Low
+S3142,Missed exam due to medical emergency,High
+S3143,Hostel accommodation query,Medium
+S3144,Academic calendar request,Low
+S3145,Elective subject change request,Medium
+S3146,Library timings inquiry,Low
+S3147,Hall ticket not generated before exam,High
+S3148,Academic calendar request,Low
+S3149,Library access issue,Medium
+S3150,Exam result not published,High
+S3151,Scholarship not credited,High
+S3152,Hostel accommodation query,Medium
+S3153,Library access issue,Medium
+S3154,Hall ticket not generated before exam,High
+S3155,Exam result not published,High
+S3156,Library timings inquiry,Low
+S3157,Bonafide certificate request,Medium
+S3158,Fee payment issue before deadline,High
+S3159,Library timings inquiry,Low
+S3160,Fee payment issue before deadline,High
+S3161,Scholarship not credited,High
+S3162,Library timings inquiry,Low
+S3163,Bonafide certificate request,Medium
+S3164,Hall ticket not generated before exam,High
+S3165,Hostel accommodation query,Medium
+S3166,Exam result not published,High
+S3167,Campus map request,Low
+S3168,Fee payment issue before deadline,High
+S3169,Scholarship not credited,High
+S3170,Event information query,Low
+S3171,Event information query,Low
+S3172,Bonafide certificate request,Medium
+S3173,Event information query,Low
+S3174,Event information query,Low
+S3175,Event information query,Low
+S3176,Academic calendar request,Low
+S3177,Exam result not published,High
+S3178,Library timings inquiry,Low
+S3179,Bonafide certificate request,Medium
+S3180,Hall ticket not generated before exam,High
+S3181,Elective subject change request,Medium
+S3182,Academic calendar request,Low
+S3183,Website navigation help,Low
+S3184,Exam result not published,High
+S3185,Fee payment issue before deadline,High
+S3186,Hall ticket not generated before exam,High
+S3187,Website navigation help,Low
+S3188,Hall ticket not generated before exam,High
+S3189,Scholarship not credited,High
+S3190,Campus map request,Low
+S3191,Internship letter request,Medium
+S3192,Elective subject change request,Medium
+S3193,Hostel accommodation query,Medium
+S3194,Hostel accommodation query,Medium
+S3195,Event information query,Low
+S3196,Academic calendar request,Low
+S3197,Exam result not published,High
+S3198,Internship letter request,Medium
+S3199,Elective subject change request,Medium
+S3200,Campus map request,Low
+S3201,Library access issue,Medium
+S3202,Academic calendar request,Low
+S3203,Hall ticket not generated before exam,High
+S3204,Library access issue,Medium
+S3205,Elective subject change request,Medium
+S3206,Academic calendar request,Low
+S3207,Website navigation help,Low
+S3208,Elective subject change request,Medium
+S3209,Scholarship not credited,High
+S3210,Scholarship not credited,High
+S3211,Exam result not published,High
+S3212,Fee payment issue before deadline,High
+S3213,Hall ticket not generated before exam,High
+S3214,Missed exam due to medical emergency,High
+S3215,Academic calendar request,Low
+S3216,Library access issue,Medium
+S3217,Campus map request,Low
+S3218,Bonafide certificate request,Medium
+S3219,Library access issue,Medium
+S3220,Missed exam due to medical emergency,High
+S3221,Fee payment issue before deadline,High
+S3222,Library timings inquiry,Low
+S3223,Elective subject change request,Medium
+S3224,Scholarship not credited,High
+S3225,Hostel accommodation query,Medium
+S3226,Academic calendar request,Low
+S3227,Hall ticket not generated before exam,High
+S3228,Website navigation help,Low
+S3229,Hall ticket not generated before exam,High
+S3230,Library access issue,Medium
+S3231,Academic calendar request,Low
+S3232,Internship letter request,Medium
+S3233,Elective subject change request,Medium
+S3234,Hostel accommodation query,Medium
+S3235,Exam result not published,High
+S3236,Fee payment issue before deadline,High
+S3237,Library timings inquiry,Low
+S3238,Library access issue,Medium
+S3239,Elective subject change request,Medium
+S3240,Website navigation help,Low
+S3241,Elective subject change request,Medium
+S3242,Library access issue,Medium
+S3243,Missed exam due to medical emergency,High
+S3244,Scholarship not credited,High
+S3245,Hostel accommodation query,Medium
+S3246,Academic calendar request,Low
+S3247,Library timings inquiry,Low
+S3248,Fee payment issue before deadline,High
+S3249,Hostel accommodation query,Medium
+S3250,Missed exam due to medical emergency,High
+S3251,Campus map request,Low
+S3252,Hostel accommodation query,Medium
+S3253,Fee payment issue before deadline,High
+S3254,Fee payment issue before deadline,High
+S3255,Website navigation help,Low
+S3256,Event information query,Low
+S3257,Internship letter request,Medium
+S3258,Elective subject change request,Medium
+S3259,Fee payment issue before deadline,High
+S3260,Exam result not published,High
+S3261,Library access issue,Medium
+S3262,Exam result not published,High
+S3263,Campus map request,Low
+S3264,Elective subject change request,Medium
+S3265,Internship letter request,Medium
+S3266,Missed exam due to medical emergency,High
+S3267,Bonafide certificate request,Medium
+S3268,Hall ticket not generated before exam,High
+S3269,Campus map request,Low
+S3270,Exam result not published,High
+S3271,Internship letter request,Medium
+S3272,Academic calendar request,Low
+S3273,Campus map request,Low
+S3274,Exam result not published,High
+S3275,Website navigation help,Low
+S3276,Fee payment issue before deadline,High
+S3277,Missed exam due to medical emergency,High
+S3278,Bonafide certificate request,Medium
+S3279,Hostel accommodation query,Medium
+S3280,Library timings inquiry,Low
+S3281,Library access issue,Medium
+S3282,Elective subject change request,Medium
+S3283,Library timings inquiry,Low
+S3284,Library access issue,Medium
+S3285,Hall ticket not generated before exam,High
+S3286,Library access issue,Medium
+S3287,Academic calendar request,Low
+S3288,Library timings inquiry,Low
+S3289,Library timings inquiry,Low
+S3290,Scholarship not credited,High
+S3291,Website navigation help,Low
+S3292,Hall ticket not generated before exam,High
+S3293,Campus map request,Low
+S3294,Campus map request,Low
+S3295,Hostel accommodation query,Medium
+S3296,Fee payment issue before deadline,High
+S3297,Library access issue,Medium
+S3298,Bonafide certificate request,Medium
+S3299,Bonafide certificate request,Medium
+S3300,Missed exam due to medical emergency,High
+S3301,Campus map request,Low
+S3302,Library timings inquiry,Low
+S3303,Scholarship not credited,High
+S3304,Scholarship not credited,High
+S3305,Campus map request,Low
+S3306,Website navigation help,Low
+S3307,Hostel accommodation query,Medium
+S3308,Bonafide certificate request,Medium
+S3309,Academic calendar request,Low
+S3310,Library access issue,Medium
+S3311,Event information query,Low
+S3312,Library timings inquiry,Low
+S3313,Hostel accommodation query,Medium
+S3314,Library timings inquiry,Low
+S3315,Bonafide certificate request,Medium
+S3316,Missed exam due to medical emergency,High
+S3317,Hall ticket not generated before exam,High
+S3318,Website navigation help,Low
+S3319,Event information query,Low
+S3320,Hall ticket not generated before exam,High
+S3321,Library timings inquiry,Low
+S3322,Bonafide certificate request,Medium
+S3323,Library timings inquiry,Low
+S3324,Scholarship not credited,High
+S3325,Elective subject change request,Medium
+S3326,Hostel accommodation query,Medium
+S3327,Missed exam due to medical emergency,High
+S3328,Fee payment issue before deadline,High
+S3329,Event information query,Low
+S3330,Elective subject change request,Medium
+S3331,Fee payment issue before deadline,High
+S3332,Bonafide certificate request,Medium
+S3333,Hostel accommodation query,Medium
+S3334,Website navigation help,Low
+S3335,Scholarship not credited,High
+S3336,Academic calendar request,Low
+S3337,Internship letter request,Medium
+S3338,Event information query,Low
+S3339,Hall ticket not generated before exam,High
+S3340,Library access issue,Medium
+S3341,Website navigation help,Low
+S3342,Hall ticket not generated before exam,High
+S3343,Internship letter request,Medium
+S3344,Scholarship not credited,High
+S3345,Website navigation help,Low
+S3346,Internship letter request,Medium
+S3347,Academic calendar request,Low
+S3348,Fee payment issue before deadline,High
+S3349,Elective subject change request,Medium
+S3350,Hall ticket not generated before exam,High
+S3351,Bonafide certificate request,Medium
+S3352,Internship letter request,Medium
+S3353,Academic calendar request,Low
+S3354,Hostel accommodation query,Medium
+S3355,Fee payment issue before deadline,High
+S3356,Bonafide certificate request,Medium
+S3357,Elective subject change request,Medium
+S3358,Campus map request,Low
+S3359,Hall ticket not generated before exam,High
+S3360,Library access issue,Medium
+S3361,Campus map request,Low
+S3362,Website navigation help,Low
+S3363,Elective subject change request,Medium
+S3364,Exam result not published,High
+S3365,Website navigation help,Low
+S3366,Event information query,Low
+S3367,Academic calendar request,Low
+S3368,Campus map request,Low
+S3369,Scholarship not credited,High
+S3370,Missed exam due to medical emergency,High
+S3371,Website navigation help,Low
+S3372,Bonafide certificate request,Medium
+S3373,Bonafide certificate request,Medium
+S3374,Library timings inquiry,Low
+S3375,Website navigation help,Low
+S3376,Library access issue,Medium
+S3377,Missed exam due to medical emergency,High
+S3378,Library timings inquiry,Low
+S3379,Exam result not published,High
+S3380,Library access issue,Medium
+S3381,Internship letter request,Medium
+S3382,Website navigation help,Low
+S3383,Fee payment issue before deadline,High
+S3384,Fee payment issue before deadline,High
+S3385,Event information query,Low
+S3386,Academic calendar request,Low
+S3387,Hostel accommodation query,Medium
+S3388,Exam result not published,High
+S3389,Website navigation help,Low
+S3390,Library access issue,Medium
+S3391,Missed exam due to medical emergency,High
+S3392,Library access issue,Medium
+S3393,Internship letter request,Medium
+S3394,Internship letter request,Medium
+S3395,Hostel accommodation query,Medium
+S3396,Fee payment issue before deadline,High
+S3397,Fee payment issue before deadline,High
+S3398,Scholarship not credited,High
+S3399,Scholarship not credited,High
+S3400,Scholarship not credited,High
+S3401,Hall ticket not generated before exam,High
+S3402,Hall ticket not generated before exam,High
+S3403,Elective subject change request,Medium
+S3404,Website navigation help,Low
+S3405,Scholarship not credited,High
+S3406,Hostel accommodation query,Medium
+S3407,Campus map request,Low
+S3408,Hostel accommodation query,Medium
+S3409,Hall ticket not generated before exam,High
+S3410,Academic calendar request,Low
+S3411,Hall ticket not generated before exam,High
+S3412,Website navigation help,Low
+S3413,Library timings inquiry,Low
+S3414,Bonafide certificate request,Medium
+S3415,Library timings inquiry,Low
+S3416,Scholarship not credited,High
+S3417,Exam result not published,High
+S3418,Academic calendar request,Low
+S3419,Website navigation help,Low
+S3420,Internship letter request,Medium
+S3421,Academic calendar request,Low
+S3422,Website navigation help,Low
+S3423,Missed exam due to medical emergency,High
+S3424,Hall ticket not generated before exam,High
+S3425,Library timings inquiry,Low
+S3426,Internship letter request,Medium
+S3427,Website navigation help,Low
+S3428,Library access issue,Medium
+S3429,Bonafide certificate request,Medium
+S3430,Hostel accommodation query,Medium
+S3431,Library access issue,Medium
+S3432,Bonafide certificate request,Medium
+S3433,Missed exam due to medical emergency,High
+S3434,Library timings inquiry,Low
+S3435,Library access issue,Medium
+S3436,Library access issue,Medium
+S3437,Event information query,Low
+S3438,Bonafide certificate request,Medium
+S3439,Website navigation help,Low
+S3440,Scholarship not credited,High
+S3441,Hostel accommodation query,Medium
+S3442,Missed exam due to medical emergency,High
+S3443,Exam result not published,High
+S3444,Hostel accommodation query,Medium
+S3445,Event information query,Low
+S3446,Elective subject change request,Medium
+S3447,Library access issue,Medium
+S3448,Library timings inquiry,Low
+S3449,Campus map request,Low
+S3450,Bonafide certificate request,Medium
+S3451,Fee payment issue before deadline,High
+S3452,Elective subject change request,Medium
+S3453,Campus map request,Low
+S3454,Exam result not published,High
+S3455,Hostel accommodation query,Medium
+S3456,Internship letter request,Medium
+S3457,Exam result not published,High
+S3458,Event information query,Low
+S3459,Website navigation help,Low
+S3460,Hall ticket not generated before exam,High
+S3461,Fee payment issue before deadline,High
+S3462,Exam result not published,High
+S3463,Elective subject change request,Medium
+S3464,Missed exam due to medical emergency,High
+S3465,Internship letter request,Medium
+S3466,Elective subject change request,Medium
+S3467,Internship letter request,Medium
+S3468,Missed exam due to medical emergency,High
+S3469,Event information query,Low
+S3470,Bonafide certificate request,Medium
+S3471,Campus map request,Low
+S3472,Website navigation help,Low
+S3473,Library timings inquiry,Low
+S3474,Library access issue,Medium
+S3475,Fee payment issue before deadline,High
+S3476,Elective subject change request,Medium
+S3477,Fee payment issue before deadline,High
+S3478,Campus map request,Low
+S3479,Library access issue,Medium
+S3480,Library access issue,Medium
+S3481,Academic calendar request,Low
+S3482,Internship letter request,Medium
+S3483,Event information query,Low
+S3484,Missed exam due to medical emergency,High
+S3485,Hall ticket not generated before exam,High
+S3486,Library access issue,Medium
+S3487,Library access issue,Medium
+S3488,Event information query,Low
+S3489,Exam result not published,High
+S3490,Library timings inquiry,Low
+S3491,Missed exam due to medical emergency,High
+S3492,Fee payment issue before deadline,High
+S3493,Exam result not published,High
+S3494,Bonafide certificate request,Medium
+S3495,Library timings inquiry,Low
+S3496,Campus map request,Low
+S3497,Elective subject change request,Medium
+S3498,Hostel accommodation query,Medium
+S3499,Library timings inquiry,Low
+S3500,Elective subject change request,Medium
+S3501,Event information query,Low
+S3502,Library access issue,Medium
+S3503,Exam result not published,High
+S3504,Hostel accommodation query,Medium
+S3505,Elective subject change request,Medium
+S3506,Library access issue,Medium
+S3507,Website navigation help,Low
+S3508,Library timings inquiry,Low
+S3509,Missed exam due to medical emergency,High
+S3510,Campus map request,Low
+S3511,Website navigation help,Low
+S3512,Hall ticket not generated before exam,High
+S3513,Hostel accommodation query,Medium
+S3514,Hall ticket not generated before exam,High
+S3515,Event information query,Low
+S3516,Fee payment issue before deadline,High
+S3517,Hall ticket not generated before exam,High
+S3518,Fee payment issue before deadline,High
+S3519,Hostel accommodation query,Medium
+S3520,Exam result not published,High
+S3521,Hall ticket not generated before exam,High
+S3522,Library access issue,Medium
+S3523,Academic calendar request,Low
+S3524,Hall ticket not generated before exam,High
+S3525,Hostel accommodation query,Medium
+S3526,Campus map request,Low
+S3527,Elective subject change request,Medium
+S3528,Bonafide certificate request,Medium
+S3529,Hall ticket not generated before exam,High
+S3530,Fee payment issue before deadline,High
+S3531,Website navigation help,Low
+S3532,Scholarship not credited,High
+S3533,Library access issue,Medium
+S3534,Event information query,Low
+S3535,Scholarship not credited,High
+S3536,Elective subject change request,Medium
+S3537,Scholarship not credited,High
+S3538,Academic calendar request,Low
+S3539,Hall ticket not generated before exam,High
+S3540,Internship letter request,Medium
+S3541,Academic calendar request,Low
+S3542,Bonafide certificate request,Medium
+S3543,Academic calendar request,Low
+S3544,Hall ticket not generated before exam,High
+S3545,Fee payment issue before deadline,High
+S3546,Hall ticket not generated before exam,High
+S3547,Hall ticket not generated before exam,High
+S3548,Library access issue,Medium
+S3549,Library access issue,Medium
+S3550,Fee payment issue before deadline,High
+S3551,Bonafide certificate request,Medium
+S3552,Exam result not published,High
+S3553,Fee payment issue before deadline,High
+S3554,Exam result not published,High
+S3555,Bonafide certificate request,Medium
+S3556,Internship letter request,Medium
+S3557,Hostel accommodation query,Medium
+S3558,Hall ticket not generated before exam,High
+S3559,Hall ticket not generated before exam,High
+S3560,Event information query,Low
+S3561,Scholarship not credited,High
+S3562,Fee payment issue before deadline,High
+S3563,Event information query,Low
+S3564,Fee payment issue before deadline,High
+S3565,Website navigation help,Low
+S3566,Missed exam due to medical emergency,High
+S3567,Hall ticket not generated before exam,High
+S3568,Library timings inquiry,Low
+S3569,Library access issue,Medium
+S3570,Internship letter request,Medium
+S3571,Campus map request,Low
+S3572,Exam result not published,High
+S3573,Bonafide certificate request,Medium
+S3574,Academic calendar request,Low
+S3575,Missed exam due to medical emergency,High
+S3576,Event information query,Low
+S3577,Missed exam due to medical emergency,High
+S3578,Elective subject change request,Medium
+S3579,Exam result not published,High
+S3580,Exam result not published,High
+S3581,Hall ticket not generated before exam,High
+S3582,Campus map request,Low
+S3583,Bonafide certificate request,Medium
+S3584,Exam result not published,High
+S3585,Exam result not published,High
+S3586,Event information query,Low
+S3587,Internship letter request,Medium
+S3588,Event information query,Low
+S3589,Library timings inquiry,Low
+S3590,Website navigation help,Low
+S3591,Website navigation help,Low
+S3592,Bonafide certificate request,Medium
+S3593,Library access issue,Medium
+S3594,Bonafide certificate request,Medium
+S3595,Website navigation help,Low
+S3596,Fee payment issue before deadline,High
+S3597,Internship letter request,Medium
+S3598,Fee payment issue before deadline,High
+S3599,Website navigation help,Low
+S3600,Website navigation help,Low
+S3601,Elective subject change request,Medium
+S3602,Website navigation help,Low
+S3603,Internship letter request,Medium
+S3604,Scholarship not credited,High
+S3605,Academic calendar request,Low
+S3606,Campus map request,Low
+S3607,Library access issue,Medium
+S3608,Academic calendar request,Low
+S3609,Event information query,Low
+S3610,Hall ticket not generated before exam,High
+S3611,Internship letter request,Medium
+S3612,Hostel accommodation query,Medium
+S3613,Event information query,Low
+S3614,Exam result not published,High
+S3615,Library timings inquiry,Low
+S3616,Website navigation help,Low
+S3617,Library access issue,Medium
+S3618,Campus map request,Low
+S3619,Fee payment issue before deadline,High
+S3620,Campus map request,Low
+S3621,Missed exam due to medical emergency,High
+S3622,Library access issue,Medium
+S3623,Elective subject change request,Medium
+S3624,Event information query,Low
+S3625,Library access issue,Medium
+S3626,Internship letter request,Medium
+S3627,Bonafide certificate request,Medium
+S3628,Bonafide certificate request,Medium
+S3629,Elective subject change request,Medium
+S3630,Campus map request,Low
+S3631,Event information query,Low
+S3632,Library timings inquiry,Low
+S3633,Website navigation help,Low
+S3634,Event information query,Low
+S3635,Missed exam due to medical emergency,High
+S3636,Internship letter request,Medium
+S3637,Internship letter request,Medium
+S3638,Event information query,Low
+S3639,Hostel accommodation query,Medium
+S3640,Library access issue,Medium
+S3641,Internship letter request,Medium
+S3642,Fee payment issue before deadline,High
+S3643,Library timings inquiry,Low
+S3644,Fee payment issue before deadline,High
+S3645,Fee payment issue before deadline,High
+S3646,Elective subject change request,Medium
+S3647,Elective subject change request,Medium
+S3648,Elective subject change request,Medium
+S3649,Bonafide certificate request,Medium
+S3650,Academic calendar request,Low
+S3651,Academic calendar request,Low
+S3652,Missed exam due to medical emergency,High
+S3653,Fee payment issue before deadline,High
+S3654,Library timings inquiry,Low
+S3655,Hall ticket not generated before exam,High
+S3656,Academic calendar request,Low
+S3657,Internship letter request,Medium
+S3658,Fee payment issue before deadline,High
+S3659,Event information query,Low
+S3660,Event information query,Low
+S3661,Scholarship not credited,High
+S3662,Hostel accommodation query,Medium
+S3663,Elective subject change request,Medium
+S3664,Fee payment issue before deadline,High
+S3665,Missed exam due to medical emergency,High
+S3666,Library access issue,Medium
+S3667,Fee payment issue before deadline,High
+S3668,Elective subject change request,Medium
+S3669,Campus map request,Low
+S3670,Hostel accommodation query,Medium
+S3671,Event information query,Low
+S3672,Internship letter request,Medium
+S3673,Website navigation help,Low
+S3674,Website navigation help,Low
+S3675,Bonafide certificate request,Medium
+S3676,Scholarship not credited,High
+S3677,Scholarship not credited,High
+S3678,Website navigation help,Low
+S3679,Elective subject change request,Medium
+S3680,Elective subject change request,Medium
+S3681,Fee payment issue before deadline,High
+S3682,Hall ticket not generated before exam,High
+S3683,Scholarship not credited,High
+S3684,Library access issue,Medium
+S3685,Internship letter request,Medium
+S3686,Scholarship not credited,High
+S3687,Bonafide certificate request,Medium
+S3688,Scholarship not credited,High
+S3689,Exam result not published,High
+S3690,Hostel accommodation query,Medium
+S3691,Hall ticket not generated before exam,High
+S3692,Library access issue,Medium
+S3693,Event information query,Low
+S3694,Hall ticket not generated before exam,High
+S3695,Scholarship not credited,High
+S3696,Campus map request,Low
+S3697,Event information query,Low
+S3698,Elective subject change request,Medium
+S3699,Library timings inquiry,Low
+S3700,Hostel accommodation query,Medium
+S3701,Campus map request,Low
+S3702,Bonafide certificate request,Medium
+S3703,Website navigation help,Low
+S3704,Campus map request,Low
+S3705,Scholarship not credited,High
+S3706,Campus map request,Low
+S3707,Academic calendar request,Low
+S3708,Scholarship not credited,High
+S3709,Campus map request,Low
+S3710,Campus map request,Low
+S3711,Internship letter request,Medium
+S3712,Academic calendar request,Low
+S3713,Website navigation help,Low
+S3714,Exam result not published,High
+S3715,Website navigation help,Low
+S3716,Missed exam due to medical emergency,High
+S3717,Academic calendar request,Low
+S3718,Campus map request,Low
+S3719,Library timings inquiry,Low
+S3720,Exam result not published,High
+S3721,Bonafide certificate request,Medium
+S3722,Missed exam due to medical emergency,High
+S3723,Missed exam due to medical emergency,High
+S3724,Internship letter request,Medium
+S3725,Elective subject change request,Medium
+S3726,Website navigation help,Low
+S3727,Fee payment issue before deadline,High
+S3728,Elective subject change request,Medium
+S3729,Hall ticket not generated before exam,High
+S3730,Hall ticket not generated before exam,High
+S3731,Website navigation help,Low
+S3732,Internship letter request,Medium
+S3733,Campus map request,Low
+S3734,Elective subject change request,Medium
+S3735,Event information query,Low
+S3736,Library access issue,Medium
+S3737,Academic calendar request,Low
+S3738,Website navigation help,Low
+S3739,Website navigation help,Low
+S3740,Campus map request,Low
+S3741,Missed exam due to medical emergency,High
+S3742,Library timings inquiry,Low
+S3743,Bonafide certificate request,Medium
+S3744,Internship letter request,Medium
+S3745,Hall ticket not generated before exam,High
+S3746,Library access issue,Medium
+S3747,Library timings inquiry,Low
+S3748,Fee payment issue before deadline,High
+S3749,Elective subject change request,Medium
+S3750,Academic calendar request,Low
+S3751,Academic calendar request,Low
+S3752,Bonafide certificate request,Medium
+S3753,Hostel accommodation query,Medium
+S3754,Scholarship not credited,High
+S3755,Bonafide certificate request,Medium
+S3756,Bonafide certificate request,Medium
+S3757,Event information query,Low
+S3758,Missed exam due to medical emergency,High
+S3759,Academic calendar request,Low
+S3760,Bonafide certificate request,Medium
+S3761,Academic calendar request,Low
+S3762,Website navigation help,Low
+S3763,Exam result not published,High
+S3764,Website navigation help,Low
+S3765,Internship letter request,Medium
+S3766,Campus map request,Low
+S3767,Fee payment issue before deadline,High
+S3768,Elective subject change request,Medium
+S3769,Elective subject change request,Medium
+S3770,Bonafide certificate request,Medium
+S3771,Hostel accommodation query,Medium
+S3772,Event information query,Low
+S3773,Library timings inquiry,Low
+S3774,Fee payment issue before deadline,High
+S3775,Fee payment issue before deadline,High
+S3776,Library timings inquiry,Low
+S3777,Hostel accommodation query,Medium
+S3778,Scholarship not credited,High
+S3779,Campus map request,Low
+S3780,Bonafide certificate request,Medium
+S3781,Missed exam due to medical emergency,High
+S3782,Scholarship not credited,High
+S3783,Library access issue,Medium
+S3784,Library timings inquiry,Low
+S3785,Event information query,Low
+S3786,Missed exam due to medical emergency,High
+S3787,Fee payment issue before deadline,High
+S3788,Internship letter request,Medium
+S3789,Exam result not published,High
+S3790,Website navigation help,Low
+S3791,Library access issue,Medium
+S3792,Event information query,Low
+S3793,Elective subject change request,Medium
+S3794,Bonafide certificate request,Medium
+S3795,Campus map request,Low
+S3796,Website navigation help,Low
+S3797,Scholarship not credited,High
+S3798,Missed exam due to medical emergency,High
+S3799,Internship letter request,Medium
+S3800,Library timings inquiry,Low
+S3801,Fee payment issue before deadline,High
+S3802,Hall ticket not generated before exam,High
+S3803,Scholarship not credited,High
+S3804,Hall ticket not generated before exam,High
+S3805,Elective subject change request,Medium
+S3806,Exam result not published,High
+S3807,Library access issue,Medium
+S3808,Library access issue,Medium
+S3809,Fee payment issue before deadline,High
+S3810,Library timings inquiry,Low
+S3811,Event information query,Low
+S3812,Event information query,Low
+S3813,Fee payment issue before deadline,High
+S3814,Scholarship not credited,High
+S3815,Scholarship not credited,High
+S3816,Library access issue,Medium
+S3817,Library timings inquiry,Low
+S3818,Bonafide certificate request,Medium
+S3819,Hostel accommodation query,Medium
+S3820,Academic calendar request,Low
+S3821,Elective subject change request,Medium
+S3822,Bonafide certificate request,Medium
+S3823,Hall ticket not generated before exam,High
+S3824,Event information query,Low
+S3825,Internship letter request,Medium
+S3826,Hostel accommodation query,Medium
+S3827,Campus map request,Low
+S3828,Hostel accommodation query,Medium
+S3829,Library timings inquiry,Low
+S3830,Elective subject change request,Medium
+S3831,Library timings inquiry,Low
+S3832,Internship letter request,Medium
+S3833,Internship letter request,Medium
+S3834,Event information query,Low
+S3835,Library timings inquiry,Low
+S3836,Event information query,Low
+S3837,Internship letter request,Medium
+S3838,Fee payment issue before deadline,High
+S3839,Missed exam due to medical emergency,High
+S3840,Hostel accommodation query,Medium
+S3841,Library access issue,Medium
+S3842,Academic calendar request,Low
+S3843,Campus map request,Low
+S3844,Bonafide certificate request,Medium
+S3845,Missed exam due to medical emergency,High
+S3846,Hall ticket not generated before exam,High
+S3847,Campus map request,Low
+S3848,Bonafide certificate request,Medium
+S3849,Internship letter request,Medium
+S3850,Exam result not published,High
+S3851,Exam result not published,High
+S3852,Library timings inquiry,Low
+S3853,Exam result not published,High
+S3854,Elective subject change request,Medium
+S3855,Hostel accommodation query,Medium
+S3856,Elective subject change request,Medium
+S3857,Exam result not published,High
+S3858,Library access issue,Medium
+S3859,Campus map request,Low
+S3860,Academic calendar request,Low
+S3861,Fee payment issue before deadline,High
+S3862,Internship letter request,Medium
+S3863,Campus map request,Low
+S3864,Missed exam due to medical emergency,High
+S3865,Fee payment issue before deadline,High
+S3866,Fee payment issue before deadline,High
+S3867,Elective subject change request,Medium
+S3868,Bonafide certificate request,Medium
+S3869,Website navigation help,Low
+S3870,Internship letter request,Medium
+S3871,Library timings inquiry,Low
+S3872,Bonafide certificate request,Medium
+S3873,Campus map request,Low
+S3874,Fee payment issue before deadline,High
+S3875,Exam result not published,High
+S3876,Fee payment issue before deadline,High
+S3877,Library access issue,Medium
+S3878,Library timings inquiry,Low
+S3879,Missed exam due to medical emergency,High
+S3880,Website navigation help,Low
+S3881,Campus map request,Low
+S3882,Hall ticket not generated before exam,High
+S3883,Library timings inquiry,Low
+S3884,Hall ticket not generated before exam,High
+S3885,Library timings inquiry,Low
+S3886,Scholarship not credited,High
+S3887,Bonafide certificate request,Medium
+S3888,Library timings inquiry,Low
+S3889,Library timings inquiry,Low
+S3890,Hostel accommodation query,Medium
+S3891,Academic calendar request,Low
+S3892,Fee payment issue before deadline,High
+S3893,Academic calendar request,Low
+S3894,Internship letter request,Medium
+S3895,Website navigation help,Low
+S3896,Missed exam due to medical emergency,High
+S3897,Hall ticket not generated before exam,High
+S3898,Hostel accommodation query,Medium
+S3899,Fee payment issue before deadline,High
+S3900,Internship letter request,Medium
+S3901,Library access issue,Medium
+S3902,Hostel accommodation query,Medium
+S3903,Hall ticket not generated before exam,High
+S3904,Internship letter request,Medium
+S3905,Exam result not published,High
+S3906,Hostel accommodation query,Medium
+S3907,Fee payment issue before deadline,High
+S3908,Campus map request,Low
+S3909,Academic calendar request,Low
+S3910,Hall ticket not generated before exam,High
+S3911,Event information query,Low
+S3912,Library timings inquiry,Low
+S3913,Missed exam due to medical emergency,High
+S3914,Hall ticket not generated before exam,High
+S3915,Scholarship not credited,High
+S3916,Library access issue,Medium
+S3917,Library timings inquiry,Low
+S3918,Elective subject change request,Medium
+S3919,Event information query,Low
+S3920,Academic calendar request,Low
+S3921,Library timings inquiry,Low
+S3922,Scholarship not credited,High
+S3923,Website navigation help,Low
+S3924,Event information query,Low
+S3925,Exam result not published,High
+S3926,Exam result not published,High
+S3927,Bonafide certificate request,Medium
+S3928,Event information query,Low
+S3929,Website navigation help,Low
+S3930,Library timings inquiry,Low
+S3931,Missed exam due to medical emergency,High
+S3932,Hostel accommodation query,Medium
+S3933,Bonafide certificate request,Medium
+S3934,Internship letter request,Medium
+S3935,Academic calendar request,Low
+S3936,Academic calendar request,Low
+S3937,Internship letter request,Medium
+S3938,Elective subject change request,Medium
+S3939,Library timings inquiry,Low
+S3940,Website navigation help,Low
+S3941,Bonafide certificate request,Medium
+S3942,Bonafide certificate request,Medium
+S3943,Academic calendar request,Low
+S3944,Academic calendar request,Low
+S3945,Academic calendar request,Low
+S3946,Exam result not published,High
+S3947,Hostel accommodation query,Medium
+S3948,Library timings inquiry,Low
+S3949,Academic calendar request,Low
+S3950,Campus map request,Low
+S3951,Fee payment issue before deadline,High
+S3952,Library access issue,Medium
+S3953,Library access issue,Medium
+S3954,Scholarship not credited,High
+S3955,Missed exam due to medical emergency,High
+S3956,Fee payment issue before deadline,High
+S3957,Fee payment issue before deadline,High
+S3958,Library access issue,Medium
+S3959,Bonafide certificate request,Medium
+S3960,Elective subject change request,Medium
+S3961,Fee payment issue before deadline,High
+S3962,Fee payment issue before deadline,High
+S3963,Library timings inquiry,Low
+S3964,Internship letter request,Medium
+S3965,Academic calendar request,Low
+S3966,Website navigation help,Low
+S3967,Event information query,Low
+S3968,Elective subject change request,Medium
+S3969,Hall ticket not generated before exam,High
+S3970,Bonafide certificate request,Medium
+S3971,Fee payment issue before deadline,High
+S3972,Hostel accommodation query,Medium
+S3973,Exam result not published,High
+S3974,Exam result not published,High
+S3975,Hall ticket not generated before exam,High
+S3976,Exam result not published,High
+S3977,Hostel accommodation query,Medium
+S3978,Library timings inquiry,Low
+S3979,Library access issue,Medium
+S3980,Missed exam due to medical emergency,High
+S3981,Internship letter request,Medium
+S3982,Campus map request,Low
+S3983,Scholarship not credited,High
+S3984,Missed exam due to medical emergency,High
+S3985,Internship letter request,Medium
+S3986,Event information query,Low
+S3987,Exam result not published,High
+S3988,Library access issue,Medium
+S3989,Internship letter request,Medium
+S3990,Exam result not published,High
+S3991,Academic calendar request,Low
+S3992,Bonafide certificate request,Medium
+S3993,Library timings inquiry,Low
+S3994,Exam result not published,High
+S3995,Hall ticket not generated before exam,High
+S3996,Event information query,Low
+S3997,Event information query,Low
+S3998,Missed exam due to medical emergency,High
+S3999,Internship letter request,Medium
+S4000,Academic calendar request,Low
+S4001,Academic calendar request,Low
+S4002,Exam result not published,High
+S4003,Library access issue,Medium
+S4004,Exam result not published,High
+S4005,Fee payment issue before deadline,High
+S4006,Missed exam due to medical emergency,High
+S4007,Website navigation help,Low
+S4008,Library timings inquiry,Low
+S4009,Exam result not published,High
+S4010,Missed exam due to medical emergency,High
+S4011,Fee payment issue before deadline,High
+S4012,Event information query,Low
+S4013,Internship letter request,Medium
+S4014,Scholarship not credited,High
+S4015,Event information query,Low
+S4016,Internship letter request,Medium
+S4017,Bonafide certificate request,Medium
+S4018,Hostel accommodation query,Medium
+S4019,Library timings inquiry,Low
+S4020,Campus map request,Low
+S4021,Exam result not published,High
+S4022,Library access issue,Medium
+S4023,Scholarship not credited,High
+S4024,Bonafide certificate request,Medium
+S4025,Library access issue,Medium
+S4026,Academic calendar request,Low
+S4027,Hostel accommodation query,Medium
+S4028,Website navigation help,Low
+S4029,Exam result not published,High
+S4030,Hall ticket not generated before exam,High
+S4031,Fee payment issue before deadline,High
+S4032,Missed exam due to medical emergency,High
+S4033,Event information query,Low
+S4034,Website navigation help,Low
+S4035,Missed exam due to medical emergency,High
+S4036,Campus map request,Low
+S4037,Library access issue,Medium
+S4038,Missed exam due to medical emergency,High
+S4039,Event information query,Low
+S4040,Fee payment issue before deadline,High
+S4041,Library timings inquiry,Low
+S4042,Fee payment issue before deadline,High
+S4043,Hall ticket not generated before exam,High
+S4044,Library access issue,Medium
+S4045,Website navigation help,Low
+S4046,Library timings inquiry,Low
+S4047,Internship letter request,Medium
+S4048,Library access issue,Medium
+S4049,Internship letter request,Medium
+S4050,Fee payment issue before deadline,High
+S4051,Fee payment issue before deadline,High
+S4052,Library access issue,Medium
+S4053,Campus map request,Low
+S4054,Website navigation help,Low
+S4055,Bonafide certificate request,Medium
+S4056,Elective subject change request,Medium
+S4057,Internship letter request,Medium
+S4058,Campus map request,Low
+S4059,Scholarship not credited,High
+S4060,Hall ticket not generated before exam,High
+S4061,Exam result not published,High
+S4062,Library access issue,Medium
+S4063,Fee payment issue before deadline,High
+S4064,Hall ticket not generated before exam,High
+S4065,Academic calendar request,Low
+S4066,Website navigation help,Low
+S4067,Hall ticket not generated before exam,High
+S4068,Fee payment issue before deadline,High
+S4069,Event information query,Low
+S4070,Library timings inquiry,Low
+S4071,Bonafide certificate request,Medium
+S4072,Hostel accommodation query,Medium
+S4073,Elective subject change request,Medium
+S4074,Website navigation help,Low
+S4075,Hostel accommodation query,Medium
+S4076,Missed exam due to medical emergency,High
+S4077,Website navigation help,Low
+S4078,Event information query,Low
+S4079,Missed exam due to medical emergency,High
+S4080,Website navigation help,Low
+S4081,Hostel accommodation query,Medium
+S4082,Bonafide certificate request,Medium
+S4083,Library access issue,Medium
+S4084,Campus map request,Low
+S4085,Event information query,Low
+S4086,Hostel accommodation query,Medium
+S4087,Fee payment issue before deadline,High
+S4088,Campus map request,Low
+S4089,Website navigation help,Low
+S4090,Internship letter request,Medium
+S4091,Exam result not published,High
+S4092,Hostel accommodation query,Medium
+S4093,Exam result not published,High
+S4094,Library timings inquiry,Low
+S4095,Bonafide certificate request,Medium
+S4096,Library access issue,Medium
+S4097,Campus map request,Low
+S4098,Library timings inquiry,Low
+S4099,Hostel accommodation query,Medium
+S4100,Hostel accommodation query,Medium
+S4101,Hall ticket not generated before exam,High
+S4102,Hostel accommodation query,Medium
+S4103,Academic calendar request,Low
+S4104,Campus map request,Low
+S4105,Website navigation help,Low
+S4106,Hall ticket not generated before exam,High
+S4107,Elective subject change request,Medium
+S4108,Library access issue,Medium
+S4109,Bonafide certificate request,Medium
+S4110,Missed exam due to medical emergency,High
+S4111,Exam result not published,High
+S4112,Website navigation help,Low
+S4113,Elective subject change request,Medium
+S4114,Fee payment issue before deadline,High
+S4115,Event information query,Low
+S4116,Scholarship not credited,High
+S4117,Library access issue,Medium
+S4118,Campus map request,Low
+S4119,Website navigation help,Low
+S4120,Campus map request,Low
+S4121,Fee payment issue before deadline,High
+S4122,Missed exam due to medical emergency,High
+S4123,Website navigation help,Low
+S4124,Elective subject change request,Medium
+S4125,Exam result not published,High
+S4126,Bonafide certificate request,Medium
+S4127,Bonafide certificate request,Medium
+S4128,Library access issue,Medium
+S4129,Bonafide certificate request,Medium
+S4130,Internship letter request,Medium
+S4131,Website navigation help,Low
+S4132,Bonafide certificate request,Medium
+S4133,Fee payment issue before deadline,High
+S4134,Campus map request,Low
+S4135,Elective subject change request,Medium
+S4136,Elective subject change request,Medium
+S4137,Bonafide certificate request,Medium
+S4138,Scholarship not credited,High
+S4139,Library timings inquiry,Low
+S4140,Fee payment issue before deadline,High
+S4141,Campus map request,Low
+S4142,Bonafide certificate request,Medium
+S4143,Missed exam due to medical emergency,High
+S4144,Academic calendar request,Low
+S4145,Website navigation help,Low
+S4146,Internship letter request,Medium
+S4147,Hostel accommodation query,Medium
+S4148,Website navigation help,Low
+S4149,Campus map request,Low
+S4150,Scholarship not credited,High
+S4151,Campus map request,Low
+S4152,Internship letter request,Medium
+S4153,Campus map request,Low
+S4154,Hall ticket not generated before exam,High
+S4155,Bonafide certificate request,Medium
+S4156,Academic calendar request,Low
+S4157,Scholarship not credited,High
+S4158,Scholarship not credited,High
+S4159,Missed exam due to medical emergency,High
+S4160,Academic calendar request,Low
+S4161,Academic calendar request,Low
+S4162,Missed exam due to medical emergency,High
+S4163,Bonafide certificate request,Medium
+S4164,Elective subject change request,Medium
+S4165,Campus map request,Low
+S4166,Hostel accommodation query,Medium
+S4167,Campus map request,Low
+S4168,Event information query,Low
+S4169,Hostel accommodation query,Medium
+S4170,Academic calendar request,Low
+S4171,Academic calendar request,Low
+S4172,Internship letter request,Medium
+S4173,Library timings inquiry,Low
+S4174,Internship letter request,Medium
+S4175,Internship letter request,Medium
+S4176,Bonafide certificate request,Medium
+S4177,Internship letter request,Medium
+S4178,Fee payment issue before deadline,High
+S4179,Campus map request,Low
+S4180,Hall ticket not generated before exam,High
+S4181,Library timings inquiry,Low
+S4182,Scholarship not credited,High
+S4183,Library timings inquiry,Low
+S4184,Hostel accommodation query,Medium
+S4185,Internship letter request,Medium
+S4186,Library timings inquiry,Low
+S4187,Library access issue,Medium
+S4188,Elective subject change request,Medium
+S4189,Fee payment issue before deadline,High
+S4190,Academic calendar request,Low
+S4191,Fee payment issue before deadline,High
+S4192,Hostel accommodation query,Medium
+S4193,Elective subject change request,Medium
+S4194,Campus map request,Low
+S4195,Library timings inquiry,Low
+S4196,Internship letter request,Medium
+S4197,Hall ticket not generated before exam,High
+S4198,Internship letter request,Medium
+S4199,Elective subject change request,Medium
+S4200,Internship letter request,Medium
+S4201,Academic calendar request,Low
+S4202,Website navigation help,Low
+S4203,Fee payment issue before deadline,High
+S4204,Exam result not published,High
+S4205,Hall ticket not generated before exam,High
+S4206,Hostel accommodation query,Medium
+S4207,Academic calendar request,Low
+S4208,Library access issue,Medium
+S4209,Hostel accommodation query,Medium
+S4210,Hall ticket not generated before exam,High
+S4211,Campus map request,Low
+S4212,Exam result not published,High
+S4213,Fee payment issue before deadline,High
+S4214,Fee payment issue before deadline,High
+S4215,Event information query,Low
+S4216,Hostel accommodation query,Medium
+S4217,Campus map request,Low
+S4218,Website navigation help,Low
+S4219,Academic calendar request,Low
+S4220,Hostel accommodation query,Medium
+S4221,Academic calendar request,Low
+S4222,Campus map request,Low
+S4223,Missed exam due to medical emergency,High
+S4224,Internship letter request,Medium
+S4225,Website navigation help,Low
+S4226,Website navigation help,Low
+S4227,Fee payment issue before deadline,High
+S4228,Academic calendar request,Low
+S4229,Fee payment issue before deadline,High
+S4230,Academic calendar request,Low
+S4231,Library timings inquiry,Low
+S4232,Library access issue,Medium
+S4233,Academic calendar request,Low
+S4234,Event information query,Low
+S4235,Exam result not published,High
+S4236,Bonafide certificate request,Medium
+S4237,Hostel accommodation query,Medium
+S4238,Academic calendar request,Low
+S4239,Scholarship not credited,High
+S4240,Elective subject change request,Medium
+S4241,Library timings inquiry,Low
+S4242,Internship letter request,Medium
+S4243,Library access issue,Medium
+S4244,Campus map request,Low
+S4245,Bonafide certificate request,Medium
+S4246,Hostel accommodation query,Medium
+S4247,Campus map request,Low
+S4248,Elective subject change request,Medium
+S4249,Hall ticket not generated before exam,High
+S4250,Exam result not published,High
+S4251,Missed exam due to medical emergency,High
+S4252,Fee payment issue before deadline,High
+S4253,Library timings inquiry,Low
+S4254,Bonafide certificate request,Medium
+S4255,Fee payment issue before deadline,High
+S4256,Campus map request,Low
+S4257,Internship letter request,Medium
+S4258,Bonafide certificate request,Medium
+S4259,Event information query,Low
+S4260,Website navigation help,Low
+S4261,Bonafide certificate request,Medium
+S4262,Exam result not published,High
+S4263,Internship letter request,Medium
+S4264,Elective subject change request,Medium
+S4265,Scholarship not credited,High
+S4266,Hostel accommodation query,Medium
+S4267,Academic calendar request,Low
+S4268,Library timings inquiry,Low
+S4269,Campus map request,Low
+S4270,Academic calendar request,Low
+S4271,Website navigation help,Low
+S4272,Fee payment issue before deadline,High
+S4273,Missed exam due to medical emergency,High
+S4274,Internship letter request,Medium
+S4275,Exam result not published,High
+S4276,Elective subject change request,Medium
+S4277,Website navigation help,Low
+S4278,Missed exam due to medical emergency,High
+S4279,Campus map request,Low
+S4280,Academic calendar request,Low
+S4281,Exam result not published,High
+S4282,Fee payment issue before deadline,High
+S4283,Fee payment issue before deadline,High
+S4284,Bonafide certificate request,Medium
+S4285,Scholarship not credited,High
+S4286,Scholarship not credited,High
+S4287,Website navigation help,Low
+S4288,Scholarship not credited,High
+S4289,Campus map request,Low
+S4290,Library timings inquiry,Low
+S4291,Event information query,Low
+S4292,Campus map request,Low
+S4293,Missed exam due to medical emergency,High
+S4294,Exam result not published,High
+S4295,Bonafide certificate request,Medium
+S4296,Event information query,Low
+S4297,Scholarship not credited,High
+S4298,Academic calendar request,Low
+S4299,Fee payment issue before deadline,High
+S4300,Internship letter request,Medium
+S4301,Hostel accommodation query,Medium
+S4302,Hall ticket not generated before exam,High
+S4303,Hostel accommodation query,Medium
+S4304,Hostel accommodation query,Medium
+S4305,Hostel accommodation query,Medium
+S4306,Exam result not published,High
+S4307,Bonafide certificate request,Medium
+S4308,Library timings inquiry,Low
+S4309,Hostel accommodation query,Medium
+S4310,Event information query,Low
+S4311,Website navigation help,Low
+S4312,Library timings inquiry,Low
+S4313,Academic calendar request,Low
+S4314,Exam result not published,High
+S4315,Bonafide certificate request,Medium
+S4316,Academic calendar request,Low
+S4317,Campus map request,Low
+S4318,Hall ticket not generated before exam,High
+S4319,Missed exam due to medical emergency,High
+S4320,Fee payment issue before deadline,High
+S4321,Missed exam due to medical emergency,High
+S4322,Website navigation help,Low
+S4323,Website navigation help,Low
+S4324,Hall ticket not generated before exam,High
+S4325,Internship letter request,Medium
+S4326,Hostel accommodation query,Medium
+S4327,Event information query,Low
+S4328,Campus map request,Low
+S4329,Website navigation help,Low
+S4330,Exam result not published,High
+S4331,Website navigation help,Low
+S4332,Scholarship not credited,High
+S4333,Hall ticket not generated before exam,High
+S4334,Scholarship not credited,High
+S4335,Academic calendar request,Low
+S4336,Fee payment issue before deadline,High
+S4337,Hostel accommodation query,Medium
+S4338,Hostel accommodation query,Medium
+S4339,Library access issue,Medium
+S4340,Missed exam due to medical emergency,High
+S4341,Hostel accommodation query,Medium
+S4342,Library access issue,Medium
+S4343,Fee payment issue before deadline,High
+S4344,Hall ticket not generated before exam,High
+S4345,Elective subject change request,Medium
+S4346,Hostel accommodation query,Medium
+S4347,Exam result not published,High
+S4348,Event information query,Low
+S4349,Scholarship not credited,High
+S4350,Hostel accommodation query,Medium
+S4351,Academic calendar request,Low
+S4352,Academic calendar request,Low
+S4353,Website navigation help,Low
+S4354,Website navigation help,Low
+S4355,Internship letter request,Medium
+S4356,Internship letter request,Medium
+S4357,Exam result not published,High
+S4358,Campus map request,Low
+S4359,Elective subject change request,Medium
+S4360,Missed exam due to medical emergency,High
+S4361,Campus map request,Low
+S4362,Scholarship not credited,High
+S4363,Missed exam due to medical emergency,High
+S4364,Campus map request,Low
+S4365,Campus map request,Low
+S4366,Hostel accommodation query,Medium
+S4367,Library timings inquiry,Low
+S4368,Internship letter request,Medium
+S4369,Campus map request,Low
+S4370,Bonafide certificate request,Medium
+S4371,Missed exam due to medical emergency,High
+S4372,Academic calendar request,Low
+S4373,Event information query,Low
+S4374,Website navigation help,Low
+S4375,Internship letter request,Medium
+S4376,Scholarship not credited,High
+S4377,Library access issue,Medium
+S4378,Exam result not published,High
+S4379,Event information query,Low
+S4380,Exam result not published,High
+S4381,Elective subject change request,Medium
+S4382,Elective subject change request,Medium
+S4383,Academic calendar request,Low
+S4384,Library access issue,Medium
+S4385,Hall ticket not generated before exam,High
+S4386,Scholarship not credited,High
+S4387,Internship letter request,Medium
+S4388,Hostel accommodation query,Medium
+S4389,Event information query,Low
+S4390,Scholarship not credited,High
+S4391,Library access issue,Medium
+S4392,Bonafide certificate request,Medium
+S4393,Academic calendar request,Low
+S4394,Bonafide certificate request,Medium
+S4395,Bonafide certificate request,Medium
+S4396,Missed exam due to medical emergency,High
+S4397,Library access issue,Medium
+S4398,Academic calendar request,Low
+S4399,Fee payment issue before deadline,High
+S4400,Fee payment issue before deadline,High
+S4401,Campus map request,Low
+S4402,Library timings inquiry,Low
+S4403,Website navigation help,Low
+S4404,Event information query,Low
+S4405,Elective subject change request,Medium
+S4406,Hall ticket not generated before exam,High
+S4407,Exam result not published,High
+S4408,Elective subject change request,Medium
+S4409,Academic calendar request,Low
+S4410,Internship letter request,Medium
+S4411,Academic calendar request,Low
+S4412,Missed exam due to medical emergency,High
+S4413,Hall ticket not generated before exam,High
+S4414,Campus map request,Low
+S4415,Academic calendar request,Low
+S4416,Event information query,Low
+S4417,Missed exam due to medical emergency,High
+S4418,Hall ticket not generated before exam,High
+S4419,Library access issue,Medium
+S4420,Website navigation help,Low
+S4421,Library access issue,Medium
+S4422,Elective subject change request,Medium
+S4423,Scholarship not credited,High
+S4424,Library access issue,Medium
+S4425,Internship letter request,Medium
+S4426,Library access issue,Medium
+S4427,Library access issue,Medium
+S4428,Event information query,Low
+S4429,Campus map request,Low
+S4430,Academic calendar request,Low
+S4431,Library timings inquiry,Low
+S4432,Internship letter request,Medium
+S4433,Internship letter request,Medium
+S4434,Fee payment issue before deadline,High
+S4435,Campus map request,Low
+S4436,Campus map request,Low
+S4437,Hostel accommodation query,Medium
+S4438,Website navigation help,Low
+S4439,Hall ticket not generated before exam,High
+S4440,Fee payment issue before deadline,High
+S4441,Fee payment issue before deadline,High
+S4442,Campus map request,Low
+S4443,Internship letter request,Medium
+S4444,Internship letter request,Medium
+S4445,Missed exam due to medical emergency,High
+S4446,Hostel accommodation query,Medium
+S4447,Scholarship not credited,High
+S4448,Website navigation help,Low
+S4449,Campus map request,Low
+S4450,Website navigation help,Low
+S4451,Website navigation help,Low
+S4452,Academic calendar request,Low
+S4453,Exam result not published,High
+S4454,Scholarship not credited,High
+S4455,Fee payment issue before deadline,High
+S4456,Academic calendar request,Low
+S4457,Bonafide certificate request,Medium
+S4458,Website navigation help,Low
+S4459,Exam result not published,High
+S4460,Internship letter request,Medium
+S4461,Academic calendar request,Low
+S4462,Academic calendar request,Low
+S4463,Campus map request,Low
+S4464,Hall ticket not generated before exam,High
+S4465,Scholarship not credited,High
+S4466,Hall ticket not generated before exam,High
+S4467,Elective subject change request,Medium
+S4468,Bonafide certificate request,Medium
+S4469,Hall ticket not generated before exam,High
+S4470,Campus map request,Low
+S4471,Internship letter request,Medium
+S4472,Event information query,Low
+S4473,Internship letter request,Medium
+S4474,Bonafide certificate request,Medium
+S4475,Exam result not published,High
+S4476,Exam result not published,High
+S4477,Library timings inquiry,Low
+S4478,Missed exam due to medical emergency,High
+S4479,Hostel accommodation query,Medium
+S4480,Elective subject change request,Medium
+S4481,Bonafide certificate request,Medium
+S4482,Campus map request,Low
+S4483,Library timings inquiry,Low
+S4484,Library access issue,Medium
+S4485,Scholarship not credited,High
+S4486,Academic calendar request,Low
+S4487,Campus map request,Low
+S4488,Missed exam due to medical emergency,High
+S4489,Internship letter request,Medium
+S4490,Missed exam due to medical emergency,High
+S4491,Website navigation help,Low
+S4492,Library timings inquiry,Low
+S4493,Scholarship not credited,High
+S4494,Campus map request,Low
+S4495,Academic calendar request,Low
+S4496,Scholarship not credited,High
+S4497,Website navigation help,Low
+S4498,Scholarship not credited,High
+S4499,Internship letter request,Medium
+S4500,Hall ticket not generated before exam,High
+S4501,Bonafide certificate request,Medium
+S4502,Internship letter request,Medium
+S4503,Library timings inquiry,Low
+S4504,Elective subject change request,Medium
+S4505,Scholarship not credited,High
+S4506,Elective subject change request,Medium
+S4507,Library access issue,Medium
+S4508,Website navigation help,Low
+S4509,Missed exam due to medical emergency,High
+S4510,Website navigation help,Low
+S4511,Scholarship not credited,High
+S4512,Hall ticket not generated before exam,High
+S4513,Missed exam due to medical emergency,High
+S4514,Event information query,Low
+S4515,Bonafide certificate request,Medium
+S4516,Hall ticket not generated before exam,High
+S4517,Library timings inquiry,Low
+S4518,Exam result not published,High
+S4519,Hall ticket not generated before exam,High
+S4520,Hall ticket not generated before exam,High
+S4521,Hall ticket not generated before exam,High
+S4522,Internship letter request,Medium
+S4523,Scholarship not credited,High
+S4524,Website navigation help,Low
+S4525,Event information query,Low
+S4526,Library access issue,Medium
+S4527,Fee payment issue before deadline,High
+S4528,Campus map request,Low
+S4529,Internship letter request,Medium
+S4530,Event information query,Low
+S4531,Website navigation help,Low
+S4532,Fee payment issue before deadline,High
+S4533,Scholarship not credited,High
+S4534,Missed exam due to medical emergency,High
+S4535,Missed exam due to medical emergency,High
+S4536,Hall ticket not generated before exam,High
+S4537,Event information query,Low
+S4538,Scholarship not credited,High
+S4539,Website navigation help,Low
+S4540,Website navigation help,Low
+S4541,Scholarship not credited,High
+S4542,Scholarship not credited,High
+S4543,Exam result not published,High
+S4544,Hostel accommodation query,Medium
+S4545,Exam result not published,High
+S4546,Event information query,Low
+S4547,Internship letter request,Medium
+S4548,Elective subject change request,Medium
+S4549,Hostel accommodation query,Medium
+S4550,Library access issue,Medium
+S4551,Bonafide certificate request,Medium
+S4552,Hostel accommodation query,Medium
+S4553,Fee payment issue before deadline,High
+S4554,Library timings inquiry,Low
+S4555,Fee payment issue before deadline,High
+S4556,Campus map request,Low
+S4557,Scholarship not credited,High
+S4558,Hostel accommodation query,Medium
+S4559,Exam result not published,High
+S4560,Exam result not published,High
+S4561,Bonafide certificate request,Medium
+S4562,Hall ticket not generated before exam,High
+S4563,Website navigation help,Low
+S4564,Internship letter request,Medium
+S4565,Missed exam due to medical emergency,High
+S4566,Bonafide certificate request,Medium
+S4567,Elective subject change request,Medium
+S4568,Event information query,Low
+S4569,Exam result not published,High
+S4570,Internship letter request,Medium
+S4571,Website navigation help,Low
+S4572,Academic calendar request,Low
+S4573,Hall ticket not generated before exam,High
+S4574,Fee payment issue before deadline,High
+S4575,Event information query,Low
+S4576,Fee payment issue before deadline,High
+S4577,Elective subject change request,Medium
+S4578,Campus map request,Low
+S4579,Event information query,Low
+S4580,Campus map request,Low
+S4581,Event information query,Low
+S4582,Hostel accommodation query,Medium
+S4583,Scholarship not credited,High
+S4584,Internship letter request,Medium
+S4585,Fee payment issue before deadline,High
+S4586,Hostel accommodation query,Medium
+S4587,Campus map request,Low
+S4588,Event information query,Low
+S4589,Internship letter request,Medium
+S4590,Hall ticket not generated before exam,High
+S4591,Scholarship not credited,High
+S4592,Campus map request,Low
+S4593,Exam result not published,High
+S4594,Elective subject change request,Medium
+S4595,Library timings inquiry,Low
+S4596,Campus map request,Low
+S4597,Scholarship not credited,High
+S4598,Fee payment issue before deadline,High
+S4599,Hall ticket not generated before exam,High
+S4600,Elective subject change request,Medium
+S4601,Library timings inquiry,Low
+S4602,Library timings inquiry,Low
+S4603,Library timings inquiry,Low
+S4604,Bonafide certificate request,Medium
+S4605,Event information query,Low
+S4606,Scholarship not credited,High
+S4607,Internship letter request,Medium
+S4608,Elective subject change request,Medium
+S4609,Library timings inquiry,Low
+S4610,Library timings inquiry,Low
+S4611,Academic calendar request,Low
+S4612,Elective subject change request,Medium
+S4613,Scholarship not credited,High
+S4614,Bonafide certificate request,Medium
+S4615,Bonafide certificate request,Medium
+S4616,Library access issue,Medium
+S4617,Missed exam due to medical emergency,High
+S4618,Library access issue,Medium
+S4619,Missed exam due to medical emergency,High
+S4620,Exam result not published,High
+S4621,Campus map request,Low
+S4622,Fee payment issue before deadline,High
+S4623,Library access issue,Medium
+S4624,Missed exam due to medical emergency,High
+S4625,Hall ticket not generated before exam,High
+S4626,Hall ticket not generated before exam,High
+S4627,Campus map request,Low
+S4628,Hall ticket not generated before exam,High
+S4629,Campus map request,Low
+S4630,Internship letter request,Medium
+S4631,Event information query,Low
+S4632,Campus map request,Low
+S4633,Internship letter request,Medium
+S4634,Scholarship not credited,High
+S4635,Website navigation help,Low
+S4636,Library access issue,Medium
+S4637,Event information query,Low
+S4638,Internship letter request,Medium
+S4639,Internship letter request,Medium
+S4640,Internship letter request,Medium
+S4641,Scholarship not credited,High
+S4642,Exam result not published,High
+S4643,Elective subject change request,Medium
+S4644,Library timings inquiry,Low
+S4645,Campus map request,Low
+S4646,Scholarship not credited,High
+S4647,Campus map request,Low
+S4648,Fee payment issue before deadline,High
+S4649,Library timings inquiry,Low
+S4650,Library timings inquiry,Low
+S4651,Website navigation help,Low
+S4652,Fee payment issue before deadline,High
+S4653,Bonafide certificate request,Medium
+S4654,Missed exam due to medical emergency,High
+S4655,Bonafide certificate request,Medium
+S4656,Hall ticket not generated before exam,High
+S4657,Exam result not published,High
+S4658,Exam result not published,High
+S4659,Hostel accommodation query,Medium
+S4660,Fee payment issue before deadline,High
+S4661,Bonafide certificate request,Medium
+S4662,Library timings inquiry,Low
+S4663,Fee payment issue before deadline,High
+S4664,Event information query,Low
+S4665,Internship letter request,Medium
+S4666,Campus map request,Low
+S4667,Library timings inquiry,Low
+S4668,Fee payment issue before deadline,High
+S4669,Fee payment issue before deadline,High
+S4670,Hall ticket not generated before exam,High
+S4671,Elective subject change request,Medium
+S4672,Library access issue,Medium
+S4673,Event information query,Low
+S4674,Event information query,Low
+S4675,Event information query,Low
+S4676,Library access issue,Medium
+S4677,Library access issue,Medium
+S4678,Campus map request,Low
+S4679,Elective subject change request,Medium
+S4680,Hostel accommodation query,Medium
+S4681,Missed exam due to medical emergency,High
+S4682,Library timings inquiry,Low
+S4683,Website navigation help,Low
+S4684,Library access issue,Medium
+S4685,Fee payment issue before deadline,High
+S4686,Exam result not published,High
+S4687,Exam result not published,High
+S4688,Library timings inquiry,Low
+S4689,Bonafide certificate request,Medium
+S4690,Website navigation help,Low
+S4691,Missed exam due to medical emergency,High
+S4692,Elective subject change request,Medium
+S4693,Website navigation help,Low
+S4694,Campus map request,Low
+S4695,Internship letter request,Medium
+S4696,Academic calendar request,Low
+S4697,Library timings inquiry,Low
+S4698,Scholarship not credited,High
+S4699,Hall ticket not generated before exam,High
+S4700,Elective subject change request,Medium
+S4701,Academic calendar request,Low
+S4702,Hall ticket not generated before exam,High
+S4703,Academic calendar request,Low
+S4704,Missed exam due to medical emergency,High
+S4705,Event information query,Low
+S4706,Fee payment issue before deadline,High
+S4707,Fee payment issue before deadline,High
+S4708,Academic calendar request,Low
+S4709,Exam result not published,High
+S4710,Website navigation help,Low
+S4711,Internship letter request,Medium
+S4712,Internship letter request,Medium
+S4713,Exam result not published,High
+S4714,Bonafide certificate request,Medium
+S4715,Missed exam due to medical emergency,High
+S4716,Elective subject change request,Medium
+S4717,Hostel accommodation query,Medium
+S4718,Website navigation help,Low
+S4719,Elective subject change request,Medium
+S4720,Hostel accommodation query,Medium
+S4721,Hall ticket not generated before exam,High
+S4722,Hall ticket not generated before exam,High
+S4723,Hall ticket not generated before exam,High
+S4724,Fee payment issue before deadline,High
+S4725,Academic calendar request,Low
+S4726,Library timings inquiry,Low
+S4727,Elective subject change request,Medium
+S4728,Library timings inquiry,Low
+S4729,Event information query,Low
+S4730,Scholarship not credited,High
+S4731,Elective subject change request,Medium
+S4732,Exam result not published,High
+S4733,Website navigation help,Low
+S4734,Fee payment issue before deadline,High
+S4735,Campus map request,Low
+S4736,Missed exam due to medical emergency,High
+S4737,Bonafide certificate request,Medium
+S4738,Library timings inquiry,Low
+S4739,Website navigation help,Low
+S4740,Scholarship not credited,High
+S4741,Scholarship not credited,High
+S4742,Website navigation help,Low
+S4743,Scholarship not credited,High
+S4744,Scholarship not credited,High
+S4745,Fee payment issue before deadline,High
+S4746,Bonafide certificate request,Medium
+S4747,Library access issue,Medium
+S4748,Hostel accommodation query,Medium
+S4749,Hostel accommodation query,Medium
+S4750,Event information query,Low
+S4751,Academic calendar request,Low
+S4752,Elective subject change request,Medium
+S4753,Exam result not published,High
+S4754,Campus map request,Low
+S4755,Bonafide certificate request,Medium
+S4756,Internship letter request,Medium
+S4757,Fee payment issue before deadline,High
+S4758,Fee payment issue before deadline,High
+S4759,Library access issue,Medium
+S4760,Library timings inquiry,Low
+S4761,Exam result not published,High
+S4762,Bonafide certificate request,Medium
+S4763,Fee payment issue before deadline,High
+S4764,Hostel accommodation query,Medium
+S4765,Campus map request,Low
+S4766,Hall ticket not generated before exam,High
+S4767,Academic calendar request,Low
+S4768,Bonafide certificate request,Medium
+S4769,Fee payment issue before deadline,High
+S4770,Fee payment issue before deadline,High
+S4771,Fee payment issue before deadline,High
+S4772,Exam result not published,High
+S4773,Scholarship not credited,High
+S4774,Campus map request,Low
+S4775,Academic calendar request,Low
+S4776,Exam result not published,High
+S4777,Hostel accommodation query,Medium
+S4778,Internship letter request,Medium
+S4779,Event information query,Low
+S4780,Bonafide certificate request,Medium
+S4781,Exam result not published,High
+S4782,Bonafide certificate request,Medium
+S4783,Event information query,Low
+S4784,Event information query,Low
+S4785,Library timings inquiry,Low
+S4786,Scholarship not credited,High
+S4787,Campus map request,Low
+S4788,Scholarship not credited,High
+S4789,Library access issue,Medium
+S4790,Library timings inquiry,Low
+S4791,Internship letter request,Medium
+S4792,Fee payment issue before deadline,High
+S4793,Bonafide certificate request,Medium
+S4794,Bonafide certificate request,Medium
+S4795,Internship letter request,Medium
+S4796,Hostel accommodation query,Medium
+S4797,Event information query,Low
+S4798,Internship letter request,Medium
+S4799,Scholarship not credited,High
+S4800,Event information query,Low
+S4801,Event information query,Low
+S4802,Elective subject change request,Medium
+S4803,Missed exam due to medical emergency,High
+S4804,Missed exam due to medical emergency,High
+S4805,Library timings inquiry,Low
+S4806,Fee payment issue before deadline,High
+S4807,Library access issue,Medium
+S4808,Exam result not published,High
+S4809,Missed exam due to medical emergency,High
+S4810,Website navigation help,Low
+S4811,Internship letter request,Medium
+S4812,Hostel accommodation query,Medium
+S4813,Library timings inquiry,Low
+S4814,Hostel accommodation query,Medium
+S4815,Fee payment issue before deadline,High
+S4816,Exam result not published,High
+S4817,Internship letter request,Medium
+S4818,Campus map request,Low
+S4819,Event information query,Low
+S4820,Hostel accommodation query,Medium
+S4821,Internship letter request,Medium
+S4822,Library access issue,Medium
+S4823,Hall ticket not generated before exam,High
+S4824,Exam result not published,High
+S4825,Campus map request,Low
+S4826,Internship letter request,Medium
+S4827,Missed exam due to medical emergency,High
+S4828,Exam result not published,High
+S4829,Website navigation help,Low
+S4830,Library timings inquiry,Low
+S4831,Website navigation help,Low
+S4832,Library access issue,Medium
+S4833,Website navigation help,Low
+S4834,Campus map request,Low
+S4835,Hall ticket not generated before exam,High
+S4836,Library timings inquiry,Low
+S4837,Library access issue,Medium
+S4838,Elective subject change request,Medium
+S4839,Event information query,Low
+S4840,Internship letter request,Medium
+S4841,Scholarship not credited,High
+S4842,Library access issue,Medium
+S4843,Exam result not published,High
+S4844,Website navigation help,Low
+S4845,Hostel accommodation query,Medium
+S4846,Bonafide certificate request,Medium
+S4847,Internship letter request,Medium
+S4848,Internship letter request,Medium
+S4849,Event information query,Low
+S4850,Elective subject change request,Medium
+S4851,Exam result not published,High
+S4852,Website navigation help,Low
+S4853,Hall ticket not generated before exam,High
+S4854,Internship letter request,Medium
+S4855,Website navigation help,Low
+S4856,Fee payment issue before deadline,High
+S4857,Academic calendar request,Low
+S4858,Campus map request,Low
+S4859,Elective subject change request,Medium
+S4860,Exam result not published,High
+S4861,Hall ticket not generated before exam,High
+S4862,Elective subject change request,Medium
+S4863,Campus map request,Low
+S4864,Exam result not published,High
+S4865,Elective subject change request,Medium
+S4866,Internship letter request,Medium
+S4867,Exam result not published,High
+S4868,Fee payment issue before deadline,High
+S4869,Bonafide certificate request,Medium
+S4870,Academic calendar request,Low
+S4871,Scholarship not credited,High
+S4872,Library access issue,Medium
+S4873,Hall ticket not generated before exam,High
+S4874,Bonafide certificate request,Medium
+S4875,Campus map request,Low
+S4876,Library timings inquiry,Low
+S4877,Bonafide certificate request,Medium
+S4878,Library access issue,Medium
+S4879,Exam result not published,High
+S4880,Library access issue,Medium
+S4881,Academic calendar request,Low
+S4882,Hall ticket not generated before exam,High
+S4883,Library timings inquiry,Low
+S4884,Academic calendar request,Low
+S4885,Academic calendar request,Low
+S4886,Hostel accommodation query,Medium
+S4887,Hall ticket not generated before exam,High
+S4888,Academic calendar request,Low
+S4889,Library timings inquiry,Low
+S4890,Internship letter request,Medium
+S4891,Fee payment issue before deadline,High
+S4892,Fee payment issue before deadline,High
+S4893,Internship letter request,Medium
+S4894,Internship letter request,Medium
+S4895,Exam result not published,High
+S4896,Campus map request,Low
+S4897,Elective subject change request,Medium
+S4898,Bonafide certificate request,Medium
+S4899,Campus map request,Low
+S4900,Fee payment issue before deadline,High
+S4901,Campus map request,Low
+S4902,Internship letter request,Medium
+S4903,Website navigation help,Low
+S4904,Internship letter request,Medium
+S4905,Website navigation help,Low
+S4906,Bonafide certificate request,Medium
+S4907,Library timings inquiry,Low
+S4908,Bonafide certificate request,Medium
+S4909,Campus map request,Low
+S4910,Internship letter request,Medium
+S4911,Hall ticket not generated before exam,High
+S4912,Internship letter request,Medium
+S4913,Website navigation help,Low
+S4914,Elective subject change request,Medium
+S4915,Internship letter request,Medium
+S4916,Event information query,Low
+S4917,Bonafide certificate request,Medium
+S4918,Library timings inquiry,Low
+S4919,Event information query,Low
+S4920,Academic calendar request,Low
+S4921,Scholarship not credited,High
+S4922,Library access issue,Medium
+S4923,Campus map request,Low
+S4924,Bonafide certificate request,Medium
+S4925,Bonafide certificate request,Medium
+S4926,Academic calendar request,Low
+S4927,Hall ticket not generated before exam,High
+S4928,Website navigation help,Low
+S4929,Library access issue,Medium
+S4930,Exam result not published,High
+S4931,Library timings inquiry,Low
+S4932,Library timings inquiry,Low
+S4933,Elective subject change request,Medium
+S4934,Bonafide certificate request,Medium
+S4935,Library access issue,Medium
+S4936,Library access issue,Medium
+S4937,Missed exam due to medical emergency,High
+S4938,Website navigation help,Low
+S4939,Scholarship not credited,High
+S4940,Event information query,Low
+S4941,Internship letter request,Medium
+S4942,Bonafide certificate request,Medium
+S4943,Exam result not published,High
+S4944,Bonafide certificate request,Medium
+S4945,Fee payment issue before deadline,High
+S4946,Bonafide certificate request,Medium
+S4947,Library access issue,Medium
+S4948,Scholarship not credited,High
+S4949,Campus map request,Low
+S4950,Hall ticket not generated before exam,High
+S4951,Exam result not published,High
+S4952,Elective subject change request,Medium
+S4953,Scholarship not credited,High
+S4954,Fee payment issue before deadline,High
+S4955,Missed exam due to medical emergency,High
+S4956,Scholarship not credited,High
+S4957,Hall ticket not generated before exam,High
+S4958,Scholarship not credited,High
+S4959,Hall ticket not generated before exam,High
+S4960,Academic calendar request,Low
+S4961,Campus map request,Low
+S4962,Fee payment issue before deadline,High
+S4963,Elective subject change request,Medium
+S4964,Library timings inquiry,Low
+S4965,Campus map request,Low
+S4966,Fee payment issue before deadline,High
+S4967,Library access issue,Medium
+S4968,Event information query,Low
+S4969,Elective subject change request,Medium
+S4970,Exam result not published,High
+S4971,Internship letter request,Medium
+S4972,Academic calendar request,Low
+S4973,Campus map request,Low
+S4974,Missed exam due to medical emergency,High
+S4975,Hall ticket not generated before exam,High
+S4976,Exam result not published,High
+S4977,Fee payment issue before deadline,High
+S4978,Elective subject change request,Medium
+S4979,Website navigation help,Low
+S4980,Website navigation help,Low
+S4981,Website navigation help,Low
+S4982,Bonafide certificate request,Medium
+S4983,Library timings inquiry,Low
+S4984,Missed exam due to medical emergency,High
+S4985,Exam result not published,High
+S4986,Hall ticket not generated before exam,High
+S4987,Bonafide certificate request,Medium
+S4988,Fee payment issue before deadline,High
+S4989,Elective subject change request,Medium
+S4990,Hostel accommodation query,Medium
+S4991,Internship letter request,Medium
+S4992,Library access issue,Medium
+S4993,Scholarship not credited,High
+S4994,Internship letter request,Medium
+S4995,Library access issue,Medium
+S4996,Fee payment issue before deadline,High
+S4997,Event information query,Low
+S4998,Hall ticket not generated before exam,High
+S4999,Exam result not published,High
+S5000,Bonafide certificate request,Medium
